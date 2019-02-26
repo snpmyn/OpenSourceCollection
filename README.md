@@ -23,4 +23,5 @@
 [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
+
 任意拖拽布局（扩展自QQ空间列表Header效果）
