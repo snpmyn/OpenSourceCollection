@@ -21,6 +21,10 @@
 [strman-java](https://github.com/shekhargulati/strman-java)
 ### 设计模式
 [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+### Git
+[git-history](https://github.com/pomber/git-history)
+
+[介绍](https://blog.csdn.net/zsp_android_com/article/details/88013756)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
