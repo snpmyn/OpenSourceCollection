@@ -27,6 +27,9 @@
 [git-history](https://github.com/pomber/git-history)（[介绍](https://blog.csdn.net/zsp_android_com/article/details/88013756)）
 ### 设计
 [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+### OCR
+* [tesseract](https://github.com/tesseract-ocr/tesseract)
+* [tess-two](https://github.com/rmtheis/tess-two)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
