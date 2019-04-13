@@ -30,6 +30,11 @@
 ### OCR
 * [tesseract](https://github.com/tesseract-ocr/tesseract)
 * [tess-two](https://github.com/rmtheis/tess-two)
+* [ScanKing](https://github.com/babylikebird/ScanKing)
+### 轮播
+[banner](https://github.com/youth5201314/banner)
+### 缩放
+[PhotoView](https://github.com/bm-x/PhotoView)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
