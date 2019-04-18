@@ -35,6 +35,10 @@
 [banner](https://github.com/youth5201314/banner)
 ### 缩放
 [PhotoView](https://github.com/bm-x/PhotoView)
+### 日历
+[CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+### 视频
+[JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
