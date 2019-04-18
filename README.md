@@ -31,14 +31,25 @@
 * [tesseract](https://github.com/tesseract-ocr/tesseract)
 * [tess-two](https://github.com/rmtheis/tess-two)
 * [ScanKing](https://github.com/babylikebird/ScanKing)
-### 轮播
-[banner](https://github.com/youth5201314/banner)
 ### 缩放
 [PhotoView](https://github.com/bm-x/PhotoView)
 ### 日历
+[material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
 ### 视频
 [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+### 图片
+##### 轮播
+[banner](https://github.com/youth5201314/banner)
+##### 选择
+[ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+##### 压缩
+[AiYaCompressHelper](https://github.com/nanchen2251/AiYaCompressHelper)
+### 权限
+* [Dexter](https://github.com/Karumi/Dexter)
+* [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
+* [permissions-dispatcher-plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin)
+* [easypermissions](https://github.com/googlesamples/easypermissions)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
