@@ -40,7 +40,8 @@
 [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
 ##### 轮播
-[banner](https://github.com/youth5201314/banner)
+* [banner](https://github.com/youth5201314/banner)
+* [loop-viewpager](https://github.com/xwc520/loop-viewpager)
 ##### 选择
 [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 ##### 压缩
