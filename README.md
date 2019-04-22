@@ -51,6 +51,8 @@
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 * [permissions-dispatcher-plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin)
 * [easypermissions](https://github.com/googlesamples/easypermissions)
+### 图表
+[f2](https://github.com/antvis/f2)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
