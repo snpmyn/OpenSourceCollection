@@ -53,6 +53,10 @@
 * [easypermissions](https://github.com/googlesamples/easypermissions)
 ### 图表
 [f2](https://github.com/antvis/f2)
+### 搜索框
+* [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
+* [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
+* [SearchDialog](https://github.com/wenwenwen888/SearchDialog)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
