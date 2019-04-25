@@ -64,7 +64,7 @@
 ### RecyclerView
 [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 [EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
-##### 视图
+##### 形色
 [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 [ShapeView](https://github.com/xwc520/ShapeView)
 ### 其它
