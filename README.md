@@ -59,6 +59,8 @@
 * [SearchDialog](https://github.com/wenwenwen888/SearchDialog)
 ### 计时
 [CountDownTextView](https://github.com/jarryleo/CountDownTextView)
+### 侧滑
+[SwipePanel](https://github.com/Blankj/SwipePanel)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
