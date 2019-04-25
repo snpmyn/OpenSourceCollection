@@ -39,7 +39,7 @@
 ### 视频
 [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
-### 圆形
+##### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 ##### 轮播
 * [banner](https://github.com/youth5201314/banner)
