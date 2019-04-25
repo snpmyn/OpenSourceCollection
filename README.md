@@ -46,8 +46,6 @@
 [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 ##### 压缩
 [AiYaCompressHelper](https://github.com/nanchen2251/AiYaCompressHelper)
-##### 形色
-[PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 ### 权限
 * [Dexter](https://github.com/Karumi/Dexter)
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
@@ -66,6 +64,9 @@
 ### RecyclerView
 [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 [EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
+##### 视图
+[PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
+[ShapeView](https://github.com/xwc520/ShapeView)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
