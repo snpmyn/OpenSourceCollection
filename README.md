@@ -69,6 +69,8 @@
 ##### 形色
 [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 [ShapeView](https://github.com/xwc520/ShapeView)
+### 自定视图
+[UI2018](https://github.com/zincPower/UI2018)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
