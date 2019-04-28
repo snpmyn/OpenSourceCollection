@@ -1,5 +1,5 @@
 ### OpenSourceCollection
-开源合集。
+开源合集
 ### 合集
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 * [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui)
@@ -71,6 +71,8 @@
 [ShapeView](https://github.com/xwc520/ShapeView)
 ### 自定视图
 [UI2018](https://github.com/zincPower/UI2018)
+### 动画
+[SignUpAnimation](https://github.com/qike2015/SignUpAnimation)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
