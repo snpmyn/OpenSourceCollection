@@ -59,6 +59,7 @@
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 * [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
 * [SearchDialog](https://github.com/wenwenwen888/SearchDialog)
+* [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
 ### 计时
 [CountDownTextView](https://github.com/jarryleo/CountDownTextView)
 ### 侧滑
