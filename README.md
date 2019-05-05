@@ -44,6 +44,7 @@
 ##### 轮播
 * [banner](https://github.com/youth5201314/banner)
 * [loop-viewpager](https://github.com/xwc520/loop-viewpager)
+* [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)
 ##### 选择
 [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 ##### 压缩
