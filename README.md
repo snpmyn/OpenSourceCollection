@@ -78,6 +78,8 @@
 ### MaterialDesign
 * [MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo)
 * [MaterialDesignDemo](https://github.com/GitLqr/MaterialDesignDemo)
+### 状态
+[LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
