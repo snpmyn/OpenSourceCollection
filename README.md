@@ -74,6 +74,9 @@
 [UI2018](https://github.com/zincPower/UI2018)
 ### 动画
 [SignUpAnimation](https://github.com/qike2015/SignUpAnimation)
+### MaterialDesign
+* [MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo)
+* [MaterialDesignDemo](https://github.com/GitLqr/MaterialDesignDemo)
 ### 其它
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
