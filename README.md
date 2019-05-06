@@ -81,10 +81,20 @@
 ### 状态
 [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 ### 适配
-[AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
+* [ScreenAdaptation](https://github.com/wildma/ScreenAdaptation)
+* [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
+### 状态栏
+[status-bar-compat](https://github.com/msdx/status-bar-compat)
+### 折展
+* [FoldText_Java](https://github.com/zzh12138/FoldText_Java)
+* [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
+* [ExpandTextView](https://github.com/lcodecorex/ExpandTextView)
 ### 其它
-[RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
+* [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
-任意拖拽布局（扩展自QQ空间列表Header效果）
+    任意拖拽布局（扩展自QQ空间列表Header效果）
+* [ExpandableSelectionView](https://github.com/ashrafDoubleO7/ExpandableSelectionView)
+
+    A fully customizable Android Expandable Selection Drop-down View that pushes views down.
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
