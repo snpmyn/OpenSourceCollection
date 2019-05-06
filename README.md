@@ -9,8 +9,8 @@
 ### OkHttp
 [OkHttpApplication](https://github.com/QQabby/OkHttpApplication)
 ### 组件化
-[MyComponentApp](https://github.com/QQabby/MyComponentApp)
-[atlas](https://github.com/alibaba/atlas) [官网](http://atlas.taobao.org/)
+* [MyComponentApp](https://github.com/QQabby/MyComponentApp)
+* [atlas](https://github.com/alibaba/atlas) [官网](http://atlas.taobao.org/)
 ### 工具类
 * [Utils-Everywhere](https://github.com/gyf-dev/Utils-Everywhere)
 * [ToolUtils](https://github.com/gyf-dev/ToolUtils)
@@ -34,8 +34,8 @@
 ### 缩放
 [PhotoView](https://github.com/bm-x/PhotoView)
 ### 日历
-[material-calendarview](https://github.com/prolificinteractive/material-calendarview)
-[CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+* [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
+* [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
 ### 视频
 [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
@@ -66,11 +66,11 @@
 ### 侧滑
 [SwipePanel](https://github.com/Blankj/SwipePanel)
 ### RecyclerView
-[IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
-[EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
+* [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
+* [EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
 ##### 形色
-[PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
-[ShapeView](https://github.com/xwc520/ShapeView)
+* [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
+* [ShapeView](https://github.com/xwc520/ShapeView)
 ### 自定视图
 [UI2018](https://github.com/zincPower/UI2018)
 ### 动画
