@@ -49,6 +49,8 @@
 [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 ##### 压缩
 [AiYaCompressHelper](https://github.com/nanchen2251/AiYaCompressHelper)
+##### 缩放
+[PhotoView](https://github.com/chrisbanes/PhotoView)
 ### 权限
 * [Dexter](https://github.com/Karumi/Dexter)
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
@@ -78,6 +80,7 @@
 ### MaterialDesign
 * [MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo)
 * [MaterialDesignDemo](https://github.com/GitLqr/MaterialDesignDemo)
+* [material](https://github.com/rey5137/material)
 ### 状态
 [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 ### 适配
@@ -91,6 +94,16 @@
 * [ExpandTextView](https://github.com/lcodecorex/ExpandTextView)
 ### FloatingActionButton
 [CounterFab](https://github.com/andremion/CounterFab)
+### GIF
+[android-gif-drawable](https://github.com/koral--/android-gif-drawable)
+### 引导页
+[AppIntro](https://github.com/paolorotolo/AppIntro)
+### 粘性头
+[StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
+### 布局管理器
+[FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+### RecyclerView
+[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
