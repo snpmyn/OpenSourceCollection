@@ -50,7 +50,8 @@
 ##### 压缩
 [AiYaCompressHelper](https://github.com/nanchen2251/AiYaCompressHelper)
 ##### 缩放
-[PhotoView](https://github.com/chrisbanes/PhotoView)
+* [PhotoView](https://github.com/chrisbanes/PhotoView)
+* [PhotoView](https://github.com/bm-x/PhotoView)
 ### 权限
 * [Dexter](https://github.com/Karumi/Dexter)
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
@@ -105,6 +106,9 @@
 [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 ### RecyclerView
 [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+### 文件选择
+* [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker)
+* [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
