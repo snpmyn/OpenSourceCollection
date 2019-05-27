@@ -103,7 +103,8 @@
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局管理器
-[FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+* [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
+* [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 ### RecyclerView
 [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 ### 文件选择
