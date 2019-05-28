@@ -120,6 +120,8 @@
 * [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)
 * [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
+### 滑动
+[NestedScrollingDemo](https://github.com/xue5455/NestedScrollingDemo)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
