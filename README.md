@@ -122,6 +122,13 @@
 * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
 ### 滑动
 [NestedScrollingDemo](https://github.com/xue5455/NestedScrollingDemo)
+### 网络请求
+* [okhttputils](https://github.com/hongyangAndroid/okhttputils)
+* [ion](https://github.com/koush/ion)
+* [RxHttp](https://github.com/liujingxing/RxHttp)
+### Excel
+* [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
+* [easyexcel](https://github.com/alibaba/easyexcel)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
@@ -129,5 +136,12 @@
 * [ExpandableSelectionView](https://github.com/ashrafDoubleO7/ExpandableSelectionView)
 
     A fully customizable Android Expandable Selection Drop-down View that pushes views down.
+* [CompoundLayout](https://github.com/Jaouan/CompoundLayout)
+
+    It's an Android library that allows you to use Layout as RadioButton or CheckBox.
+
+* [ViewsFrom](https://github.com/Jaouan/ViewsFrom) 
+
+    Android librarie that allows you to easily find and animate child views from one or multiple ViewGroups using their tag, type, visibility and much more.
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
