@@ -129,6 +129,9 @@
 ### Excel
 * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 * [easyexcel](https://github.com/alibaba/easyexcel)
+### 状态布局
+* [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
+* [LoadSir](https://github.com/KingJA/LoadSir)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
