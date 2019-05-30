@@ -91,7 +91,9 @@
 * [ScreenAdaptation](https://github.com/wildma/ScreenAdaptation)
 * [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 ### 状态栏
-[status-bar-compat](https://github.com/msdx/status-bar-compat)
+* [status-bar-compat](https://github.com/msdx/status-bar-compat)
+* [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+* [Sofia](https://github.com/yanzhenjie/Sofia)
 ### 折展
 * [FoldText_Java](https://github.com/zzh12138/FoldText_Java)
 * [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
