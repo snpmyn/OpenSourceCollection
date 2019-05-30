@@ -4,6 +4,8 @@
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 * [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui)
 * [awesome-java](https://github.com/akullpp/awesome-java)
+* [GitHub受欢迎Android UI Library整理一](https://mp.weixin.qq.com/s/lmyk491lJsqzzIPP2_KCTQ)
+* [GitHub受欢迎Android UI Library整理二](https://mp.weixin.qq.com/s/R0-_4mzXreMPVNxCdaa0WQ)
 ### 弹框
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
