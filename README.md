@@ -59,6 +59,7 @@
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 * [permissions-dispatcher-plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin)
 * [easypermissions](https://github.com/googlesamples/easypermissions)
+* [SoulPermission](https://github.com/soulqw/SoulPermission)
 ### 图表
 [f2](https://github.com/antvis/f2)
 ### 搜索框
