@@ -6,6 +6,7 @@
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [GitHub受欢迎Android UI Library整理一](https://mp.weixin.qq.com/s/lmyk491lJsqzzIPP2_KCTQ)
 * [GitHub受欢迎Android UI Library整理二](https://mp.weixin.qq.com/s/R0-_4mzXreMPVNxCdaa0WQ)
+* [优秀Android开源库、工具与开源项目整理分享](https://mp.weixin.qq.com/s/Yta0t7x6EQuaGassvYoYXw)
 ### 弹框
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
