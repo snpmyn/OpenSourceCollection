@@ -1,5 +1,4 @@
-### 
-开源合集
+### 开源合集
 ### 合集
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 * [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui)
