@@ -53,6 +53,8 @@
 ##### 缩放
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
 * [PhotoView](https://github.com/bm-x/PhotoView)
+##### 缩略、水印
+[simpleimage](https://github.com/alibaba/simpleimage)
 ### 权限
 * [Dexter](https://github.com/Karumi/Dexter)
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
