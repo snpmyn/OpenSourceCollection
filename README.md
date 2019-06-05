@@ -144,6 +144,8 @@
 [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
 [chuck](https://github.com/jgilfelt/chuck)
+### 频道选择器
+[ChannelView](https://github.com/chengzhicao/ChannelView)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
