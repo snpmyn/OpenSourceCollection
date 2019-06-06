@@ -54,6 +54,9 @@
 ##### 缩放
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
 * [PhotoView](https://github.com/bm-x/PhotoView)
+##### 拖拽
+* [DragPhotoView](https://github.com/githubwing/DragPhotoView)
+* [DragCloseHelper](https://github.com/bauer-bao/DragCloseHelper)
 ##### 缩略、水印
 [simpleimage](https://github.com/alibaba/simpleimage)
 ### 权限
