@@ -101,7 +101,10 @@
 * [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
 * [Sofia](https://github.com/yanzhenjie/Sofia)
 * [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
-### 折展
+### TextView
+##### 多态
+[Spanomatic](https://github.com/grivos/Spanomatic)
+##### 折展
 * [FoldText_Java](https://github.com/zzh12138/FoldText_Java)
 * [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
 * [ExpandTextView](https://github.com/lcodecorex/ExpandTextView)
