@@ -152,7 +152,7 @@
 [chuck](https://github.com/jgilfelt/chuck)
 ### 频道选择器
 [ChannelView](https://github.com/chengzhicao/ChannelView)
-### Blog
+### 博客
 [halo](https://github.com/halo-dev/halo)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
