@@ -91,8 +91,6 @@
 * [MaterialDesignDemo](https://github.com/GitLqr/MaterialDesignDemo)
 * [material](https://github.com/rey5137/material)
 * [material-components-android](https://github.com/material-components/material-components-android)
-### 状态
-[LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 ### 适配
 * [ScreenAdaptation](https://github.com/wildma/ScreenAdaptation)
 * [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
@@ -143,7 +141,7 @@
 ### Excel
 * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 * [easyexcel](https://github.com/alibaba/easyexcel)
-### 状态布局
+### 状态
 * [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 * [LoadSir](https://github.com/KingJA/LoadSir)
 ### 算法
