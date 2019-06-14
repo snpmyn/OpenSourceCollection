@@ -39,7 +39,9 @@
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
 ### 视频
-[JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+* [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+* [CameraView](https://github.com/natario1/CameraView)
+* [CameraView](https://github.com/CJT2325/CameraView)
 ### 图片
 ##### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
