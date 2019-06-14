@@ -42,6 +42,7 @@
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 * [CameraView](https://github.com/natario1/CameraView)
 * [CameraView](https://github.com/CJT2325/CameraView)
+* [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 ### 图片
 ##### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
