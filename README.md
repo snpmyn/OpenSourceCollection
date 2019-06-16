@@ -155,6 +155,10 @@
 [ChannelView](https://github.com/chengzhicao/ChannelView)
 ### 博客
 [halo](https://github.com/halo-dev/halo)
+### ViewPager
+[UltraViewPager](https://github.com/alibaba/UltraViewPager)
+### 指示器
+[Android-Universal-ViewPager-Indicator](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
