@@ -114,7 +114,8 @@
 ### GIF
 [android-gif-drawable](https://github.com/koral--/android-gif-drawable)
 ### 引导页
-[AppIntro](https://github.com/paolorotolo/AppIntro)
+* [AppIntro](https://github.com/paolorotolo/AppIntro)
+* [TapTargetView](https://github.com/KeepSafe/TapTargetView)
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局管理器
@@ -147,6 +148,7 @@
 ### 状态
 * [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 * [LoadSir](https://github.com/KingJA/LoadSir)
+* [StateManager](https://github.com/alibaba/StateManager)
 ### 算法
 [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
