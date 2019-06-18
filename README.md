@@ -171,9 +171,11 @@
 * [CompoundLayout](https://github.com/Jaouan/CompoundLayout)
 
     It's an Android library that allows you to use Layout as RadioButton or CheckBox.
-
 * [ViewsFrom](https://github.com/Jaouan/ViewsFrom) 
 
     Android librarie that allows you to easily find and animate child views from one or multiple ViewGroups using their tag, type, visibility and much more.
+* [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
+
+    有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
