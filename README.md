@@ -164,6 +164,12 @@
 ### PopupWindow
 * [BasePopup](https://github.com/razerdp/BasePopup)
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
+### 弹幕
+[Muti-Barrage](https://github.com/mCyp/Muti-Barrage)
+### EditText
+* [PasswordEditText](https://github.com/maksim88/PasswordEditText)
+* [ClearEditText](https://github.com/MrFuFuFu/ClearEditText)
+* [RxMarkdown](https://github.com/yydcdut/RxMarkdown)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
