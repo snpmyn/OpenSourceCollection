@@ -6,6 +6,7 @@
 * [GitHub受欢迎Android UI Library整理二](https://mp.weixin.qq.com/s/R0-_4mzXreMPVNxCdaa0WQ)
 * [优秀Android开源库、工具与开源项目整理分享](https://mp.weixin.qq.com/s/Yta0t7x6EQuaGassvYoYXw)
 * [MaterialDesign库](https://www.jianshu.com/p/b425d9bdad68)
+* [Android开源库分类整理，你能用到的都在这儿了！](https://mp.weixin.qq.com/s/AcnINUI60-uoi3NT5MvzzQ)
 ### 弹框
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
@@ -69,7 +70,9 @@
 * [easypermissions](https://github.com/googlesamples/easypermissions)
 * [SoulPermission](https://github.com/soulqw/SoulPermission)
 ### 图表
-[f2](https://github.com/antvis/f2)
+* [f2](https://github.com/antvis/f2)
+* [UI](https://github.com/supertaohaili/UI)
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 ### 搜索框
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 * [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
@@ -174,6 +177,8 @@
 [TinyPinyin](https://github.com/promeG/TinyPinyin)
 ### 语言处理
 [HanLP](https://github.com/hankcs/HanLP)
+### 反编译
+[Apktool](https://github.com/iBotPeaches/Apktool)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
