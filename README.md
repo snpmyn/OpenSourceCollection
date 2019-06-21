@@ -170,6 +170,10 @@
 * [PasswordEditText](https://github.com/maksim88/PasswordEditText)
 * [ClearEditText](https://github.com/MrFuFuFu/ClearEditText)
 * [RxMarkdown](https://github.com/yydcdut/RxMarkdown)
+### 拼音
+[TinyPinyin](https://github.com/promeG/TinyPinyin)
+### 语言处理
+[HanLP](https://github.com/hankcs/HanLP)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
