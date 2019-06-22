@@ -145,6 +145,7 @@
 * [okhttputils](https://github.com/hongyangAndroid/okhttputils)
 * [ion](https://github.com/koush/ion)
 * [RxHttp](https://github.com/liujingxing/RxHttp)
+* [RxEasyHttp](https://github.com/zhou-you/RxEasyHttp)
 ### Excel
 * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 * [easyexcel](https://github.com/alibaba/easyexcel)
@@ -179,6 +180,8 @@
 [HanLP](https://github.com/hankcs/HanLP)
 ### 反编译
 [Apktool](https://github.com/iBotPeaches/Apktool)
+### 进度条
+[EasySignSeekBar](https://github.com/zhou-you/EasySignSeekBar)
 ### 其它
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
