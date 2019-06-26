@@ -196,6 +196,8 @@
 [ViewPagerFragmentLazyLoad](https://github.com/linglongxin24/ViewPagerFragmentLazyLoad)
 ### 混淆
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)
+### 阴影
+[ShadowLayout](https://github.com/lijiankun24/ShadowLayout)
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
