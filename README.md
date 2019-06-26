@@ -188,6 +188,14 @@
 ### 通知
 * [Pudding](https://github.com/o0o0oo00/Pudding)
 * [NiftyNotification](https://github.com/pedant/NiftyNotification)
+### 换肤
+* [MagicaSakura](https://github.com/bilibili/MagicaSakura)
+* [android-DarkTheme](https://github.com/googlesamples/android-DarkTheme)
+* [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin)
+### 懒加载
+[ViewPagerFragmentLazyLoad](https://github.com/linglongxin24/ViewPagerFragmentLazyLoad)
+### 混淆
+[AndResGuard](https://github.com/shwenzhang/AndResGuard)
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
