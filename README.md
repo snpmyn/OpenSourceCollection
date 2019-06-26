@@ -129,8 +129,6 @@
 ### 文件选择
 * [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker)
 * [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
-### 提示
-[Pudding](https://github.com/o0o0oo00/Pudding)
 ### 官方
 * [android-sunflower](https://github.com/googlesamples/android-sunflower)
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
@@ -167,6 +165,7 @@
 [Android-Universal-ViewPager-Indicator](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
 ### PopupWindow
 * [BasePopup](https://github.com/razerdp/BasePopup)
+* [EasyPopup](https://github.com/zyyoona7/EasyPopup)
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
 ### 弹幕
 [Muti-Barrage](https://github.com/mCyp/Muti-Barrage)
@@ -182,7 +181,14 @@
 [Apktool](https://github.com/iBotPeaches/Apktool)
 ### 进度条
 [EasySignSeekBar](https://github.com/zhou-you/EasySignSeekBar)
-### 其它
+### ConstraintLayout
+[ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
+### 表格
+[excelPanel](https://github.com/zhouchaoyuan/excelPanel)
+### 通知
+* [Pudding](https://github.com/o0o0oo00/Pudding)
+* [NiftyNotification](https://github.com/pedant/NiftyNotification)
+### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
     任意拖拽布局（扩展自QQ空间列表Header效果）
@@ -198,5 +204,8 @@
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 
     有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
+* [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
+
+    高仿抖音照片电影功能。
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
