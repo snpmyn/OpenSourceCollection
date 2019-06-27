@@ -198,6 +198,12 @@
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)
 ### 阴影
 [ShadowLayout](https://github.com/lijiankun24/ShadowLayout)
+### 插件化
+[Shadow](https://github.com/Tencent/Shadow)
+### 悬浮列表
+[RecyclerPinnedHeader](https://github.com/tuacy/RecyclerPinnedHeader)
+### 事件分发
+[CEventCenter](https://github.com/FreddyChen/CEventCenter)
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
