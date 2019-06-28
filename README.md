@@ -223,5 +223,8 @@
 * [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
 
     高仿抖音照片电影功能。
+* [DiDiCallCar](https://github.com/18601949127/DiDiCallCar)
+
+    仿滴滴出行。
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
