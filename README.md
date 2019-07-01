@@ -119,6 +119,7 @@
 [android-gif-drawable](https://github.com/koral--/android-gif-drawable)
 ### 引导页
 * [AppIntro](https://github.com/paolorotolo/AppIntro)
+* [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView)
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
@@ -207,6 +208,13 @@
 [CEventCenter](https://github.com/FreddyChen/CEventCenter)
 ### API管理
 [yapi](https://github.com/YMFE/yapi)
+### 优化
+* [MyPerf4J](https://github.com/LinShunKang/MyPerf4J)
+
+    High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
+* [booster](https://github.com/didi/booster)
+
+    Optimizer for mobile applications.
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
@@ -229,5 +237,8 @@
 * [DiDiCallCar](https://github.com/18601949127/DiDiCallCar)
 
     仿滴滴出行。
+* [BooheeRuler](https://github.com/totond/BooheeRuler)
+
+    仿写薄荷健康体重选择控件。
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
