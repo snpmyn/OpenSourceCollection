@@ -7,7 +7,12 @@
 * [优秀Android开源库、工具与开源项目整理分享](https://mp.weixin.qq.com/s/Yta0t7x6EQuaGassvYoYXw)
 * [MaterialDesign库](https://www.jianshu.com/p/b425d9bdad68)
 * [Android开源库分类整理，你能用到的都在这儿了！](https://mp.weixin.qq.com/s/AcnINUI60-uoi3NT5MvzzQ)
-### 弹框
+### 企业
+* [Tencent](https://github.com/Tencent)
+* [Alibaba](https://github.com/alibaba)
+* [Baidu](https://github.com/baidu)
+* [HUAWEI](https://github.com/Huawei)
+### PopupWindow
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
 [OkHttpApplication](https://github.com/QQabby/OkHttpApplication)
@@ -215,6 +220,16 @@
 * [booster](https://github.com/didi/booster)
 
     Optimizer for mobile applications.
+### Flutter
+* [developer_quest](https://github.com/2d-inc/developer_quest)
+
+    Repository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired.
+* [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook)
+
+    日更FlutterDemo合集。
+* [FlutterCreateSubmissions2019](https://github.com/pinkeshdarji/FlutterCreateSubmissions2019)
+
+    An Effort to gather all Flutter Create App submissions at one place from various resources.
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
