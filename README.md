@@ -158,6 +158,7 @@
 * [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 * [LoadSir](https://github.com/KingJA/LoadSir)
 * [StateManager](https://github.com/alibaba/StateManager)
+* [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 ### 算法
 [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
@@ -230,6 +231,8 @@
 * [FlutterCreateSubmissions2019](https://github.com/pinkeshdarji/FlutterCreateSubmissions2019)
 
     An Effort to gather all Flutter Create App submissions at one place from various resources.
+### 导航栏
+[EasyNavigation](https://github.com/forvv231/EasyNavigation)
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
