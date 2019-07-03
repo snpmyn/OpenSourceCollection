@@ -260,5 +260,8 @@
 * [BooheeRuler](https://github.com/totond/BooheeRuler)
 
     仿写薄荷健康体重选择控件。
+* [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
+    
+    Easy Google Photos style multi-selection for RecyclerViews, powered by Kotlin and AndroidX. 
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
