@@ -188,7 +188,8 @@
 ### 反编译
 [Apktool](https://github.com/iBotPeaches/Apktool)
 ### 进度条
-[EasySignSeekBar](https://github.com/zhou-you/EasySignSeekBar)
+* [EasySignSeekBar](https://github.com/zhou-you/EasySignSeekBar)
+* [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget)
 ### ConstraintLayout
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 ### 表格
