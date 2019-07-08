@@ -12,6 +12,8 @@
 * [Alibaba](https://github.com/alibaba)
 * [Baidu](https://github.com/baidu)
 * [HUAWEI](https://github.com/Huawei)
+* [iQIYI](https://github.com/iqiyi)
+* [Facebook](https://github.com/facebook)
 ### PopupWindow
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
@@ -232,10 +234,17 @@
 * [FlutterCreateSubmissions2019](https://github.com/pinkeshdarji/FlutterCreateSubmissions2019)
 
     An Effort to gather all Flutter Create App submissions at one place from various resources.
+* [MXFlutter](https://github.com/TGIF-iMatrix/MXFlutter)
+
+    基于JS的高性能Flutter动态化框。
 ### 导航栏
 [EasyNavigation](https://github.com/forvv231/EasyNavigation)
 ### 缓存
-[DoKV](https://github.com/leavesC/DoKV)    
+[DoKV](https://github.com/leavesC/DoKV)   
+### App Bundle
+[Qigsaw](https://github.com/iqiyi/Qigsaw) 
+
+Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles. It supports dynamic delivery for split APKs without reinstalling the base one.
 ### 其它  
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
