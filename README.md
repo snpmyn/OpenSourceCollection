@@ -14,7 +14,6 @@
 * [HUAWEI](https://github.com/Huawei)
 * [iQIYI](https://github.com/iqiyi)
 * [Facebook](https://github.com/facebook)
-* [flutterchina](https://github.com/flutterchina)
 ### PopupWindow
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
