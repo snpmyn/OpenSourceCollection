@@ -13,6 +13,7 @@
 * [Baidu](https://github.com/baidu)
 * [HUAWEI](https://github.com/Huawei)
 * [iQIYI](https://github.com/iqiyi)
+* [美团点评](https://github.com/Meituan-Dianping)
 * [Facebook](https://github.com/facebook)
 ### PopupWindow
 [XPopup](https://github.com/li-xiaojun/XPopup)
