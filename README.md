@@ -240,6 +240,9 @@
 * [FlutterCreateSubmissions2019](https://github.com/pinkeshdarji/FlutterCreateSubmissions2019)
 
     An Effort to gather all Flutter Create App submissions at one place from various resources.
+* [GSYFlutterDemo](https://github.com/CarGuo/GSYFlutterDemo)
+
+    不同GSYGithubAppFlutter完整项目，该项目将逐步完善各种Flutter独立例子，方便新手学习和解决问题。
 * [MXFlutter](https://github.com/TGIF-iMatrix/MXFlutter)
 
     基于JS的高性能Flutter动态化框。
