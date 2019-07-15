@@ -223,7 +223,8 @@
 ### 悬浮列表
 [RecyclerPinnedHeader](https://github.com/tuacy/RecyclerPinnedHeader)
 ### 事件分发
-[CEventCenter](https://github.com/FreddyChen/CEventCenter)
+* [RxBus](https://github.com/AndroidKnife/RxBus)
+* [CEventCenter](https://github.com/FreddyChen/CEventCenter)
 ### API管理
 [yapi](https://github.com/YMFE/yapi)
 ### 优化
