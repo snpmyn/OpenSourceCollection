@@ -13,6 +13,7 @@
 * [Baidu](https://github.com/baidu)
 * [HUAWEI](https://github.com/Huawei)
 * [iQIYI](https://github.com/iqiyi)
+* [极光开发者](https://github.com/jpush)
 * [美团点评](https://github.com/Meituan-Dianping)
 * [bilibili](https://github.com/bilibili)
 * [Facebook](https://github.com/facebook)
