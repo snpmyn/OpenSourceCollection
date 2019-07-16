@@ -51,11 +51,13 @@
 ### 日历
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
-### 视频
-* [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
-* [CameraView](https://github.com/natario1/CameraView)
+### 相机
 * [CameraView](https://github.com/CJT2325/CameraView)
+* [CameraView](https://github.com/natario1/CameraView)
+* [CainCamera](https://github.com/CainKernel/CainCamera)
+### 视频
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
+* [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
 ##### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
@@ -255,6 +257,10 @@
 [EasyNavigation](https://github.com/forvv231/EasyNavigation)
 ### 缓存
 [DoKV](https://github.com/leavesC/DoKV)   
+### 刷加
+* [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
+* [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+* [PullRefreshLayout](https://github.com/genius158/PullRefreshLayout)
 ### App Bundle
 [Qigsaw](https://github.com/iqiyi/Qigsaw) 
 
