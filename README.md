@@ -10,6 +10,7 @@
 ### 组织
 * [Tencent](https://github.com/Tencent)
 * [Alibaba](https://github.com/alibaba)
+* [Alipay](https://github.com/alipay)
 * [Baidu](https://github.com/baidu)
 * [HUAWEI](https://github.com/Huawei)
 * [iQIYI](https://github.com/iqiyi)
