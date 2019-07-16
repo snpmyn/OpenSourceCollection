@@ -215,6 +215,7 @@
 * [MagicaSakura](https://github.com/bilibili/MagicaSakura)
 * [android-DarkTheme](https://github.com/googlesamples/android-DarkTheme)
 * [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin)
+* [Android-skin-support](https://github.com/ximsfei/Android-skin-support)
 ### 懒加载
 [ViewPagerFragmentLazyLoad](https://github.com/linglongxin24/ViewPagerFragmentLazyLoad)
 ### 混淆
