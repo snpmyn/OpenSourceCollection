@@ -321,5 +321,8 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
     A simple customised version of the TextInputLayout from the Android Design Support Library ⌨.
+* [LitePager](https://github.com/Ifxcyr/LitePager)
+
+    LitePager，一轻量级ViewPager，仿新版网易云歌单广场。
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
