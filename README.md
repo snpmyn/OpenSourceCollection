@@ -19,6 +19,7 @@
 * [bilibili](https://github.com/bilibili)
 * [Facebook](https://github.com/facebook)
 * [apache](https://github.com/apache)
+* [JetBrains](https://github.com/JetBrains)
 ### PopupWindow
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
@@ -168,6 +169,7 @@
 * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
 * [easyexcel](https://github.com/alibaba/easyexcel)
 ### 状态
+* [pageloader](https://github.com/arierie/pageloader)
 * [LoadingAndRetryManager](https://github.com/hongyangAndroid/LoadingAndRetryManager)
 * [LoadSir](https://github.com/KingJA/LoadSir)
 * [StateManager](https://github.com/alibaba/StateManager)
@@ -212,6 +214,7 @@
 * [Pudding](https://github.com/o0o0oo00/Pudding)
 * [NiftyNotification](https://github.com/pedant/NiftyNotification)
 ### 换肤
+* [Colorful](https://github.com/garretyoder/Colorful)
 * [MagicaSakura](https://github.com/bilibili/MagicaSakura)
 * [android-DarkTheme](https://github.com/googlesamples/android-DarkTheme)
 * [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin)
@@ -309,5 +312,14 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [EasySegmentedBarView](https://github.com/zhou-you/EasySegmentedBarView)
 
     简单易用自定分段控件，方便快速实现分段效果。支持xml配、代码配、分段规则按均分/比例分、数字分段、文本分段、渐变分段、条式正常/圆形/三角形、segment文字样式、进度设置、进度标记类型设置、分段描述设置、其它更多自定设置等功能。
+* [WaveLoading](https://github.com/race604/WaveLoading)
+
+    A wave-like loading drawable.
+* [stencil](https://github.com/thoughtbot/stencil)
+
+    Android library, written exclusively in kotlin, for animating the path created from text.
+* [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
+
+    A simple customised version of the TextInputLayout from the Android Design Support Library ⌨.
 ### 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
