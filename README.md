@@ -123,6 +123,7 @@
 * [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
 * [Sofia](https://github.com/yanzhenjie/Sofia)
 * [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
+* [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil)
 ### TextView
 ##### 多态
 [Spanomatic](https://github.com/grivos/Spanomatic)
@@ -138,6 +139,7 @@
 * [AppIntro](https://github.com/paolorotolo/AppIntro)
 * [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView)
+* [ShowcaseView](https://github.com/erkutaras/ShowcaseView)
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局管理器
