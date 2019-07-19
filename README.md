@@ -213,6 +213,7 @@
 * [EasySignSeekBar](https://github.com/zhou-you/EasySignSeekBar)
 * [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget)
 * [SeekArc](https://github.com/neild001/SeekArc)
+* [CircleProgressView](https://github.com/jenly1314/CircleProgressView)
 ### ConstraintLayout
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 ### 表格
