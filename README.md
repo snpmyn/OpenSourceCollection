@@ -142,6 +142,7 @@
 * [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView)
 * [ShowcaseView](https://github.com/erkutaras/ShowcaseView)
+* [GuideView-master](https://github.com/qiushi123/GuideView-master)
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局管理器
