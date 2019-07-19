@@ -177,7 +177,8 @@
 * [StateManager](https://github.com/alibaba/StateManager)
 * [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 ### 算法
-[algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
 [chuck](https://github.com/jgilfelt/chuck)
 ### 频道选择器
