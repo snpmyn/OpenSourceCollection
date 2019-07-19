@@ -335,6 +335,12 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [LitePager](https://github.com/Ifxcyr/LitePager)
 
     LitePager，一轻量级ViewPager，仿新版网易云歌单广场。
+* [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary)
+
+    This is a library to help creating expanding views with animation in android.
+* [ProgressView](https://github.com/WhiteDG/ProgressView)
+
+    Styleable progress view.
 ## 系统
 [windows95](https://github.com/felixrieseberg/windows95)
 
