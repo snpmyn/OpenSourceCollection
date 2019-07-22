@@ -200,6 +200,7 @@
 ### 弹幕
 [Muti-Barrage](https://github.com/mCyp/Muti-Barrage)
 ### EditText
+* [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
 * [PasswordEditText](https://github.com/maksim88/PasswordEditText)
 * [ClearEditText](https://github.com/MrFuFuFu/ClearEditText)
 * [RxMarkdown](https://github.com/yydcdut/RxMarkdown)
