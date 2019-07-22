@@ -269,6 +269,8 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [XUpdate](https://github.com/xuexiangjys/XUpdate)
 * [AppUpdate](https://github.com/WVector/AppUpdate)
 * [CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
+### 指纹识别
+[BiometricPrompt](https://github.com/ZuoHailong/BiometricPrompt)
 ### 测试
 [SoloPi](https://github.com/alipay/SoloPi)
 ### 其它  
