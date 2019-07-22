@@ -138,6 +138,7 @@
 ### GIF
 [android-gif-drawable](https://github.com/koral--/android-gif-drawable)
 ### 引导页
+* [GuideDialog](https://github.com/open-android/GuideDialog)
 * [AppIntro](https://github.com/paolorotolo/AppIntro)
 * [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView)
