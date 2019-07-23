@@ -162,6 +162,7 @@
 * [TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
 * [StateButton](https://github.com/niniloveyou/StateButton)
 ### 侧滑菜单
+* [SwipePanel](https://github.com/Blankj/SwipePanel)
 * [SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout)
 * [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)
 * [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
