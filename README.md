@@ -342,6 +342,9 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [ChatYuk](https://github.com/alfianyusufabdullah/ChatYuk)
 
     Simple Android Chat using Firebase 📚 📚
+* [spager](https://github.com/alfianyusufabdullah/spager)
+
+    Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
 ## Flutter
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
