@@ -323,7 +323,7 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
     Android library, written exclusively in kotlin, for animating the path created from text.
 * [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
-    A simple customised version of the TextInputLayout from the Android Design Support Library ⌨.
+    A simple customised version of the TextInputLayout from the Android Design Support Library ⌨
 * [LitePager](https://github.com/Ifxcyr/LitePager)
 
     LitePager，一轻量级ViewPager，仿新版网易云歌单广场。
@@ -339,6 +339,9 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [PullLoadXiaochengxu](https://github.com/LucianZhang/PullLoadXiaochengxu)
 
     仿微信小程序下拉。
+* [ChatYuk](https://github.com/alfianyusufabdullah/ChatYuk)
+
+    Simple Android Chat using Firebase 📚 📚
 ## Flutter
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
