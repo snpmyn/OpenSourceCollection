@@ -370,6 +370,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 ## 系统
 [windows95](https://github.com/felixrieseberg/windows95)
 
-    💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 ## 私活
 [howto-make-more-money](https://github.com/DendiSe7enGitHub/howto-make-more-money)
