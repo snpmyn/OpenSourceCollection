@@ -266,6 +266,13 @@
 * [FillBlankQuestionDemo](https://github.com/alidili/Demos/tree/master/FillBlankQuestionDemo)
 * [FillTextView](https://github.com/ChenLittlePing/FillTextView)
 * [FillBlankDemo](https://github.com/TMLAndroid/FillBlankDemo)
+### HTML格式化
+* [HtmlSpanner](https://github.com/NightWhistler/HtmlSpanner)
+
+    Android HTML rendering library with CSS support.
+* [html-textview](https://github.com/SufficientlySecure/html-textview)
+
+    TextView to display simple HTML content.
 ### App Bundle
 [Qigsaw](https://github.com/iqiyi/Qigsaw) 
 
