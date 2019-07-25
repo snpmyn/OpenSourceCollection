@@ -203,11 +203,12 @@
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
 ### 弹幕
 [Muti-Barrage](https://github.com/mCyp/Muti-Barrage)
-### EditText
+### 输入框
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
 * [PasswordEditText](https://github.com/maksim88/PasswordEditText)
-* [ClearEditText](https://github.com/MrFuFuFu/ClearEditText)
+* [ClearEditText](https://github.com/MrFuFuFu/ClearEditText)    
 * [RxMarkdown](https://github.com/yydcdut/RxMarkdown)
+* [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)
 ### 拼音
 [TinyPinyin](https://github.com/promeG/TinyPinyin)
 ### 语言处理
