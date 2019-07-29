@@ -363,6 +363,9 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [spager](https://github.com/alfianyusufabdullah/spager)
 
     Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
+* [MobileInfo](https://github.com/guxiaonian/MobileInfo)
+
+    【Android】mobile information android手机可获取的所有信息。
 ## Flutter
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
