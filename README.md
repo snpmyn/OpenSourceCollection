@@ -1,5 +1,4 @@
-## Android
-### 组织
+## 组织
 * [Tencent](https://github.com/Tencent)
 * [Alibaba](https://github.com/alibaba)
 * [Alipay](https://github.com/alipay)
@@ -13,6 +12,10 @@
 * [apache](https://github.com/apache)
 * [JetBrains](https://github.com/JetBrains)
 * [Bytedance Inc.](https://github.com/bytedance)
+## Android
+### 官方
+* [android-sunflower](https://github.com/googlesamples/android-sunflower)
+* [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
 ### 合集
 * [Demos](https://github.com/alidili/Demos)
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
@@ -23,9 +26,6 @@
 * [优秀Android开源库、工具与开源项目整理分享](https://mp.weixin.qq.com/s/Yta0t7x6EQuaGassvYoYXw)
 * [MaterialDesign库](https://www.jianshu.com/p/b425d9bdad68)
 * [Android开源库分类整理，你能用到的都在这儿了！](https://mp.weixin.qq.com/s/AcnINUI60-uoi3NT5MvzzQ)
-### 官方
-* [android-sunflower](https://github.com/googlesamples/android-sunflower)
-* [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
 ### 日志
 * [timber](https://github.com/JakeWharton/timber)
 
