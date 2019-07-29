@@ -12,6 +12,7 @@
 * [Facebook](https://github.com/facebook)
 * [apache](https://github.com/apache)
 * [JetBrains](https://github.com/JetBrains)
+* [Bytedance Inc.](https://github.com/bytedance)
 ### 合集
 * [Demos](https://github.com/alidili/Demos)
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
