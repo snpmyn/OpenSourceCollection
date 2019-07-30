@@ -79,10 +79,6 @@
 ### 图片
 ##### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
-##### 轮播
-* [banner](https://github.com/youth5201314/banner)
-* [loop-viewpager](https://github.com/xwc520/loop-viewpager)
-* [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)
 ##### 选择
 [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 ##### 压缩
@@ -211,13 +207,18 @@
 * [spager](https://github.com/alfianyusufabdullah/spager)
 
     Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
+* [UltraViewPager](https://github.com/alibaba/UltraViewPager)
+##### 轮播
+* [banner](https://github.com/youth5201314/banner)
+* [loop-viewpager](https://github.com/xwc520/loop-viewpager)
+* [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)
+##### 指示器
 * [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
     Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [](https://github.com/LuckyJayce/ViewPagerIndicator)
 
     Indicator取代TabHost，实现网易顶部tab、新浪微博主页底部tab、引导页、无限轮播banner、高自定tab和特效、LazyFragment等。
-* [UltraViewPager](https://github.com/alibaba/UltraViewPager)
 * [Android-Universal-ViewPager-Indicator](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
 ### PopupWindow
 * [BasePopup](https://github.com/razerdp/BasePopup)
