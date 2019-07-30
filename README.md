@@ -205,9 +205,20 @@
 ### 博客
 [halo](https://github.com/halo-dev/halo)
 ### ViewPager
-[UltraViewPager](https://github.com/alibaba/UltraViewPager)
-### 指示器
-[Android-Universal-ViewPager-Indicator](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
+* [LitePager](https://github.com/Ifxcyr/LitePager)
+
+    LitePager，一轻量级ViewPager，仿新版网易云歌单广场。
+* [spager](https://github.com/alfianyusufabdullah/spager)
+
+    Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
+* [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+
+    Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
+* [](https://github.com/LuckyJayce/ViewPagerIndicator)
+
+    Indicator取代TabHost，实现网易顶部tab、新浪微博主页底部tab、引导页、无限轮播banner、高自定tab和特效、LazyFragment等。
+* [UltraViewPager](https://github.com/alibaba/UltraViewPager)
+* [Android-Universal-ViewPager-Indicator](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
 ### PopupWindow
 * [BasePopup](https://github.com/razerdp/BasePopup)
 * [EasyPopup](https://github.com/zyyoona7/EasyPopup)
@@ -343,9 +354,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
     A simple customised version of the TextInputLayout from the Android Design Support Library ⌨
-* [LitePager](https://github.com/Ifxcyr/LitePager)
-
-    LitePager，一轻量级ViewPager，仿新版网易云歌单广场。
 * [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary)
 
     This is a library to help creating expanding views with animation in android.
@@ -361,9 +369,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [ChatYuk](https://github.com/alfianyusufabdullah/ChatYuk)
 
     Simple Android Chat using Firebase 📚 📚
-* [spager](https://github.com/alfianyusufabdullah/spager)
-
-    Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
 * [MobileInfo](https://github.com/guxiaonian/MobileInfo)
 
     【Android】mobile information android手机可获取的所有信息。
