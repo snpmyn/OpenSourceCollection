@@ -133,7 +133,7 @@
 [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 
 有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
-##### 形色
+### 形色
 * [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 * [ShapeView](https://github.com/xwc520/ShapeView)
 ### 自定视图
