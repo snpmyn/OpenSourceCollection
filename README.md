@@ -77,6 +77,11 @@
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
+##### 轮播
+* [banner](https://github.com/youth5201314/banner)
+* [loop-viewpager](https://github.com/xwc520/loop-viewpager)
+* [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)
+* [RecyclerBanner](https://github.com/ren93/RecyclerBanner)
 ##### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 ##### 选择
@@ -114,6 +119,19 @@
 ### RecyclerView
 * [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 * [EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
+* [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
+    
+    Easy Google Photos style multi-selection for RecyclerViews, powered by Kotlin and AndroidX.
+##### 动画
+[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+##### 指示器
+[PageRecyelerViewDemo](https://github.com/shichaohui/PageRecyelerViewDemo)
+
+横向分页RecyclerView，带页码指示器。
+##### 布局管理器
+[FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
+
+有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
 ##### 形色
 * [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 * [ShapeView](https://github.com/xwc520/ShapeView)
@@ -160,8 +178,6 @@
 ### 布局管理器
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
-### RecyclerView
-[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 ### 文件选择
 * [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker)
 * [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
@@ -208,10 +224,6 @@
 
     Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
 * [UltraViewPager](https://github.com/alibaba/UltraViewPager)
-##### 轮播
-* [banner](https://github.com/youth5201314/banner)
-* [loop-viewpager](https://github.com/xwc520/loop-viewpager)
-* [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)
 ##### 指示器
 * [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
@@ -322,9 +334,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [ViewsFrom](https://github.com/Jaouan/ViewsFrom) 
 
     Android librarie that allows you to easily find and animate child views from one or multiple ViewGroups using their tag, type, visibility and much more.
-* [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
-
-    有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
 * [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
 
     高仿抖音照片电影功能。
@@ -333,16 +342,10 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
     仿滴滴出行。
 * [BooheeRuler](https://github.com/totond/BooheeRuler)
 
-    仿写薄荷健康体重选择控件。
-* [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
-    
-    Easy Google Photos style multi-selection for RecyclerViews, powered by Kotlin and AndroidX. 
+    仿写薄荷健康体重选择控件。 
 * [NettyChat](https://github.com/FreddyChen/NettyChat)
 
     基于Netty+TCP+Protobuf实现的Android IM库，含Protobuf序列化、TCP拆包与粘包、长连接握手认证、心跳机制、断线重连机制、消息重发机制、读写超时机制、离线消息、线程池等功能。 
-* [PageRecyelerViewDemo](https://github.com/shichaohui/PageRecyelerViewDemo)
-
-    横向分页RecyclerView，带页码指示器。
 * [EasySegmentedBarView](https://github.com/zhou-you/EasySegmentedBarView)
 
     简单易用自定分段控件，方便快速实现分段效果。支持xml配、代码配、分段规则按均分/比例分、数字分段、文本分段、渐变分段、条式正常/圆形/三角形、segment文字样式、进度设置、进度标记类型设置、分段描述设置、其它更多自定设置等功能。
