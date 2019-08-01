@@ -36,6 +36,16 @@
 * [logback-android](https://github.com/tony19/logback-android)
 
     📄The reliable, generic, fast and flexible logging framework for android.
+### Toast
+* [Toasty](https://github.com/GrenderG/Toasty)
+
+    The usual Toast, but with steroids 💪
+* [SuperToasts](https://github.com/JohnPersano/SuperToasts)
+
+    A library that extends the Android toast framework.
+* [TastyToast](https://github.com/yadav-rahul/TastyToast)
+
+    🍞 Make your native android toasts tasty.
 ### PopupWindow
 [XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
@@ -116,7 +126,8 @@
 ### 计时
 [CountDownTextView](https://github.com/jarryleo/CountDownTextView)
 ### 侧滑
-[SwipePanel](https://github.com/Blankj/SwipePanel)
+* [SwipePanel](https://github.com/Blankj/SwipePanel)
+* [SmartSwipe](https://github.com/luckybilly/SmartSwipe)
 ### RecyclerView
 * [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 * [EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
