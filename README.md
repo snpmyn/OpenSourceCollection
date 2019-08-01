@@ -388,6 +388,9 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [MobileInfo](https://github.com/guxiaonian/MobileInfo)
 
     【Android】mobile information android手机可获取的所有信息。
+* [EasyPR](https://github.com/liuruoze/EasyPR)
+
+    An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations.
 ## Flutter
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
