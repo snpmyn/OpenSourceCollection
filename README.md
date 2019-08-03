@@ -58,6 +58,7 @@
 * [Utils-Everywhere](https://github.com/gyf-dev/Utils-Everywhere)
 * [ToolUtils](https://github.com/gyf-dev/ToolUtils)
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+* [hutool](https://github.com/looly/hutool)
 ### 热修复
 [AndFix](https://github.com/alibaba/AndFix)
 ### TextView
@@ -124,6 +125,7 @@
 * [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
 * [SearchDialog](https://github.com/wenwenwen888/SearchDialog)
 * [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
+* [MultiSearchView](https://github.com/iammert/MultiSearchView)
 ### 计时
 [CountDownTextView](https://github.com/jarryleo/CountDownTextView)
 ### 侧滑
@@ -197,6 +199,9 @@
 ### 按钮
 * [TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
 * [StateButton](https://github.com/niniloveyou/StateButton)
+* [CameraVideoButton](https://github.com/iammert/CameraVideoButton)
+
+    Instagram like animated button for taking photo or recording video.
 ### 侧滑菜单
 * [SwipePanel](https://github.com/Blankj/SwipePanel)
 * [SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout)
@@ -220,6 +225,7 @@
 * [StateManager](https://github.com/alibaba/StateManager)
 * [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 * [StatusLayout](https://github.com/Colaman0/StatusLayout)
+* [StatusView](https://github.com/iammert/StatusView)
 ### 算法
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
@@ -245,6 +251,8 @@
 
     Indicator取代TabHost，实现网易顶部tab、新浪微博主页底部tab、引导页、无限轮播banner、高自定tab和特效、LazyFragment等。
 * [Android-Universal-ViewPager-Indicator](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
+### TabLayout
+[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)
 ### PopupWindow
 * [BasePopup](https://github.com/razerdp/BasePopup)
 * [EasyPopup](https://github.com/zyyoona7/EasyPopup)
