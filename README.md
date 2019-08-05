@@ -1,6 +1,7 @@
 ## 组织
 * [google](https://github.com/google)
 * [square](https://github.com/square)
+* [Zhihu](https://github.com/zhihu)
 * [Tencent](https://github.com/Tencent)
 * [Alibaba](https://github.com/alibaba)
 * [Alipay](https://github.com/alipay)
