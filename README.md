@@ -259,6 +259,13 @@
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
 ### 弹幕
 [Muti-Barrage](https://github.com/mCyp/Muti-Barrage)
+### 二维码
+* [CZXing](https://github.com/devilsen/CZXing)
+
+    C++ port of ZXing for Android.
+* [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)
+
+    几行代码快速集成二维码扫描功能。
 ### 输入框
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
 * [PasswordEditText](https://github.com/maksim88/PasswordEditText)
