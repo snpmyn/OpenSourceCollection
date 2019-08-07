@@ -16,6 +16,7 @@
 * [JetBrains](https://github.com/JetBrains)
 * [ReactiveX](https://github.com/ReactiveX)
 * [Bytedance Inc.](https://github.com/bytedance)
+* [Lantern](https://github.com/getlantern)
 ## Android
 ### 官方
 * [android-sunflower](https://github.com/googlesamples/android-sunflower)
