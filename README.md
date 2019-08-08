@@ -91,6 +91,7 @@
 * [CameraView](https://github.com/natario1/CameraView)
 * [CainCamera](https://github.com/CainKernel/CainCamera)
 ### 视频
+* [EpMedia](https://github.com/yangjie10930/EpMedia)
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
