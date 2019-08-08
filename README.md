@@ -373,6 +373,9 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [DiDiCallCar](https://github.com/18601949127/DiDiCallCar)
 
     仿滴滴出行。
+* [android-amap-track-move](https://github.com/mxdldev/android-amap-track-move)
+
+    Android车辆运动轨迹平滑移动（高仿滴滴打车）最佳实践。
 * [BooheeRuler](https://github.com/totond/BooheeRuler)
 
     仿写薄荷健康体重选择控件。 
