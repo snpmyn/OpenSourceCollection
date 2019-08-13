@@ -95,6 +95,16 @@
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 ### 图片
+##### 加载
+* [coil](https://github.com/coil-kt/coil)
+
+    Image loading for Android backed by Kotlin Coroutines.
+* [glide](https://github.com/bumptech/glide)
+
+    An image loading and caching library for Android focused on smooth scrolling.
+* [picasso](https://github.com/square/picasso)
+
+    A powerful image downloading and caching library for Android.
 ##### 轮播
 * [banner](https://github.com/youth5201314/banner)
 * [loop-viewpager](https://github.com/xwc520/loop-viewpager)
