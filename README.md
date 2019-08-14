@@ -65,8 +65,6 @@
 * [hutool](https://github.com/looly/hutool)
 ### 热修复
 [AndFix](https://github.com/alibaba/AndFix)
-### TextView
-[SuperTextView](https://github.com/chenBingX/SuperTextView)
 ### 字符串
 [strman-java](https://github.com/shekhargulati/strman-java)
 ### 设计模式
@@ -195,7 +193,8 @@
 * [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil)
 ### TextView
 ##### 多态
-[Spanomatic](https://github.com/grivos/Spanomatic)
+* [Spanomatic](https://github.com/grivos/Spanomatic)
+* [SuperTextView](https://github.com/chenBingX/SuperTextView)
 ##### 折展
 * [FoldText_Java](https://github.com/zzh12138/FoldText_Java)
 * [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
