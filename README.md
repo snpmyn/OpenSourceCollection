@@ -90,7 +90,7 @@
 * [EpMedia](https://github.com/yangjie10930/EpMedia)
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
-### 图片
+### [图片](https://github.com/snpmyn/OpenSourceCollection/blob/master/PICTURE.md)
 ##### 加载
 * [coil](https://github.com/coil-kt/coil)
 
