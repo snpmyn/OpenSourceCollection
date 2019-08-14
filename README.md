@@ -77,8 +77,6 @@
 * [tesseract](https://github.com/tesseract-ocr/tesseract)
 * [tess-two](https://github.com/rmtheis/tess-two)
 * [ScanKing](https://github.com/babylikebird/ScanKing)
-### 缩放
-[PhotoView](https://github.com/bm-x/PhotoView)
 ### 日历
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
