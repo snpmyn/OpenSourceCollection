@@ -433,6 +433,9 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [simple-phone](https://github.com/arekolek/simple-phone)
 
     Bare minimum implementation of an Android Phone app.
+* [QQMenu](https://github.com/ren93/QQMenu)
+
+    仿最新版QQ底部动态按钮。
 ## Flutter
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
