@@ -110,6 +110,9 @@
 * [loop-viewpager](https://github.com/xwc520/loop-viewpager)
 * [MagicViewPager](https://github.com/hongyangAndroid/MagicViewPager)
 * [RecyclerBanner](https://github.com/ren93/RecyclerBanner)
+* [RevealBanner](https://github.com/tokiii/RevealBanner)
+
+    🚀🚀🚀仿转转Banner动画。
 ##### 裁剪
 * [clipimage](https://github.com/gdutxiaoxu/clipimage)
 * [uCrop](https://github.com/Yalantis/uCrop)
