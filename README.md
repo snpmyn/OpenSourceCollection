@@ -328,6 +328,8 @@
 [RecyclerPinnedHeader](https://github.com/tuacy/RecyclerPinnedHeader)
 ### 事件分发
 * [RxBus](https://github.com/AndroidKnife/RxBus)
+
+    Event Bus By RxJava.
 * [CEventCenter](https://github.com/FreddyChen/CEventCenter)
 ### API管理
 [yapi](https://github.com/YMFE/yapi)
