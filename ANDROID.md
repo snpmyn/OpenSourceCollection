@@ -230,8 +230,6 @@
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
 [chuck](https://github.com/jgilfelt/chuck)
-### 博客
-[halo](https://github.com/halo-dev/halo)
 ### ViewPager
 * [LitePager](https://github.com/Ifxcyr/LitePager)
 
