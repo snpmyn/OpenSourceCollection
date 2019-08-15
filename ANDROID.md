@@ -269,6 +269,8 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)
 ### 拼音
 [TinyPinyin](https://github.com/promeG/TinyPinyin)
+
+适用于Java和Android快速、低内存占用汉字转拼音库。
 ### 语言处理
 [HanLP](https://github.com/hankcs/HanLP)
 ### 反编译
