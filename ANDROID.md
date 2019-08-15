@@ -141,10 +141,6 @@
 [PageRecyelerViewDemo](https://github.com/shichaohui/PageRecyelerViewDemo)
 
 横向分页RecyclerView，带页码指示器。
-##### 布局管理器
-[FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
-
-有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
 ### 形色
 * [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 * [ShapeView](https://github.com/xwc520/ShapeView)
@@ -189,9 +185,16 @@
 * [GuideView-master](https://github.com/qiushi123/GuideView-master)
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
-### 布局管理器
+### 布局
+##### 百分比布局
+[android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
+
+A extends lib for android-percent-support（Google百分比布局库扩展） 
+##### 布局管理器
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
+
+    有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
 ### 文件选择
 * [Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker)
 * [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
