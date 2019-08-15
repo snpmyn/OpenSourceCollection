@@ -238,6 +238,9 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 
     Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉
 * [UltraViewPager](https://github.com/alibaba/UltraViewPager)
+* [ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper)
+
+    ViewPager工具类，快速实现导航栏轮播图、引导页、ViewPager + Fragment。内置多种指示器，告别ViewPager繁琐操作，专注逻辑。
 ##### 指示器
 * [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
@@ -325,7 +328,10 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 
     Optimizer for mobile applications.
 ### 导航栏
-[EasyNavigation](https://github.com/forvv231/EasyNavigation)
+* [EasyNavigation](https://github.com/forvv231/EasyNavigation)
+* [WeChatBottomNavigation](https://github.com/buxiliulian/WeChatBottomNavigation)
+
+    高仿微信底部导航栏动画。
 ### 缓存
 [DoKV](https://github.com/leavesC/DoKV)   
 ### 刷加
