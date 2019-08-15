@@ -331,6 +331,9 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [WeChatBottomNavigation](https://github.com/buxiliulian/WeChatBottomNavigation)
 
     高仿微信底部导航栏动画。
+* [QQMenu](https://github.com/ren93/QQMenu)
+
+    仿最新版QQ底部动态按钮。
 ### 缓存
 [DoKV](https://github.com/leavesC/DoKV)   
 ### 刷加
@@ -427,9 +430,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [simple-phone](https://github.com/arekolek/simple-phone)
 
     Bare minimum implementation of an Android Phone app.
-* [QQMenu](https://github.com/ren93/QQMenu)
-
-    仿最新版QQ底部动态按钮。
 * [EasyFloat](https://github.com/princekin-f/EasyFloat)
 
     浮窗从未如此简单。
