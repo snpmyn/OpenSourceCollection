@@ -112,6 +112,9 @@
 * [permissions-dispatcher-plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin)
 * [easypermissions](https://github.com/googlesamples/easypermissions)
 * [SoulPermission](https://github.com/soulqw/SoulPermission)
+* [FloatWindowPermission](https://github.com/zhaozepeng/FloatWindowPermission)
+
+    This repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime.
 ### 图表
 * [f2](https://github.com/antvis/f2)
 * [UI](https://github.com/supertaohaili/UI)
@@ -416,3 +419,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [QQMenu](https://github.com/ren93/QQMenu)
 
     仿最新版QQ底部动态按钮。
+* [EasyFloat](https://github.com/princekin-f/EasyFloat)
+
+    浮窗从未如此简单。
