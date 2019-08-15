@@ -295,6 +295,13 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 [ViewPagerFragmentLazyLoad](https://github.com/linglongxin24/ViewPagerFragmentLazyLoad)
 ### 混淆
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)
+### 多渠道打包
+* [VasDolly](https://github.com/Tencent/VasDolly)
+
+    Android V1 and V2 Signature Channel Package Plugin.
+* [walle](https://github.com/Meituan-Dianping/walle)
+
+    Android Signature V2 Scheme签名下新一代渠道包打包神器。
 ### 阴影
 [ShadowLayout](https://github.com/lijiankun24/ShadowLayout)
 ### 插件化
