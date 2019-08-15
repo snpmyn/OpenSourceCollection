@@ -225,9 +225,6 @@
 * [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 * [StatusLayout](https://github.com/Colaman0/StatusLayout)
 * [StatusView](https://github.com/iammert/StatusView)
-### 算法
-* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
-* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
 [chuck](https://github.com/jgilfelt/chuck)
 ### ViewPager
