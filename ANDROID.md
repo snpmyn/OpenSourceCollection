@@ -232,8 +232,6 @@
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 网络拦截
 [chuck](https://github.com/jgilfelt/chuck)
-### 频道选择器
-[ChannelView](https://github.com/chengzhicao/ChannelView)
 ### 博客
 [halo](https://github.com/halo-dev/halo)
 ### ViewPager
@@ -425,3 +423,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [EasyFloat](https://github.com/princekin-f/EasyFloat)
 
     浮窗从未如此简单。
+* [ChannelView](https://github.com/chengzhicao/ChannelView)
+
+    一款频道选择器，可进行频道拖动、排序、增删，动态改变高度，精简流畅。
