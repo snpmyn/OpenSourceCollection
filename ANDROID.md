@@ -31,8 +31,6 @@
 * [TastyToast](https://github.com/yadav-rahul/TastyToast)
 
     🍞 Make your native android toasts tasty.
-### PopupWindow
-[XPopup](https://github.com/li-xiaojun/XPopup)
 ### OkHttp
 [OkHttpApplication](https://github.com/QQabby/OkHttpApplication)
 ### 组件化
@@ -252,6 +250,7 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 ### TabLayout
 [AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)
 ### PopupWindow
+* [XPopup](https://github.com/li-xiaojun/XPopup)
 * [BasePopup](https://github.com/razerdp/BasePopup)
 * [EasyPopup](https://github.com/zyyoona7/EasyPopup)
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
