@@ -295,6 +295,7 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [android-DarkTheme](https://github.com/googlesamples/android-DarkTheme)
 * [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin)
 * [Android-skin-support](https://github.com/ximsfei/Android-skin-support)
+* [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
 ### 懒加载
 [ViewPagerFragmentLazyLoad](https://github.com/linglongxin24/ViewPagerFragmentLazyLoad)
 ### 混淆
