@@ -63,6 +63,7 @@
 * [CameraView](https://github.com/natario1/CameraView)
 * [CainCamera](https://github.com/CainKernel/CainCamera)
 ### 视频
+* [mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg)
 * [EpMedia](https://github.com/yangjie10930/EpMedia)
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
