@@ -117,6 +117,9 @@
 * [UI](https://github.com/supertaohaili/UI)
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * [hellocharts-android](https://github.com/lecho/hellocharts-android)
+* [SparkLineLayout](https://github.com/majorkik/SparkLineLayout)
+
+    Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.
 ### 搜索框
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 * [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
@@ -347,6 +350,7 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [FillTextView](https://github.com/ChenLittlePing/FillTextView)
 * [FillBlankDemo](https://github.com/TMLAndroid/FillBlankDemo)
 ### 颜色
+* [GradientView](https://github.com/lopspower/GradientView)
 * [HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
 * [ColorPicker](https://github.com/No89757/ColorPicker)
 ### HTML格式化
