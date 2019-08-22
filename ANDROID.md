@@ -3,13 +3,13 @@
 * [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
 ### 合集
 * [Demos](https://github.com/alidili/Demos)
+* [MaterialDesign库](https://www.jianshu.com/p/b425d9bdad68)
 * [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)
 * [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui)
 * [awesome-java](https://github.com/akullpp/awesome-java)
 * [GitHub受欢迎Android UI Library整理一](https://mp.weixin.qq.com/s/lmyk491lJsqzzIPP2_KCTQ)
 * [GitHub受欢迎Android UI Library整理二](https://mp.weixin.qq.com/s/R0-_4mzXreMPVNxCdaa0WQ)
 * [优秀Android开源库、工具与开源项目整理分享](https://mp.weixin.qq.com/s/Yta0t7x6EQuaGassvYoYXw)
-* [MaterialDesign库](https://www.jianshu.com/p/b425d9bdad68)
 * [Android开源库分类整理，你能用到的都在这儿了！](https://mp.weixin.qq.com/s/AcnINUI60-uoi3NT5MvzzQ)
 ### 日志
 * [timber](https://github.com/JakeWharton/timber)
@@ -31,8 +31,11 @@
 * [TastyToast](https://github.com/yadav-rahul/TastyToast)
 
     🍞 Make your native android toasts tasty.
-### OkHttp
+### 网络
+##### OkHttp
 [OkHttpApplication](https://github.com/QQabby/OkHttpApplication)
+##### 拦截
+[chuck](https://github.com/jgilfelt/chuck)
 ### 工具类
 * [Utils-Everywhere](https://github.com/gyf-dev/Utils-Everywhere)
 * [ToolUtils](https://github.com/gyf-dev/ToolUtils)
@@ -62,11 +65,14 @@
 * [CameraView](https://github.com/CJT2325/CameraView)
 * [CameraView](https://github.com/natario1/CameraView)
 * [CainCamera](https://github.com/CainKernel/CainCamera)
-### 视频
+### 音频
 * [mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg)
 * [EpMedia](https://github.com/yangjie10930/EpMedia)
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+* [ExoPlayer](https://github.com/google/ExoPlayer)
+
+    An extensible media player for Android.
 ### 图片
 ##### 加载
 * [coil](https://github.com/coil-kt/coil)
@@ -188,7 +194,11 @@
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局
-##### 百分比布局
+##### 拖拽
+[RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
+
+任意拖拽布局（扩展自QQ空间列表Header效果）
+##### 百分比
 [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
 A extends lib for android-percent-support（Google百分比布局库扩展） 
@@ -230,8 +240,6 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 * [StatusLayout](https://github.com/Colaman0/StatusLayout)
 * [StatusView](https://github.com/iammert/StatusView)
-### 网络拦截
-[chuck](https://github.com/jgilfelt/chuck)
 ### ViewPager
 * [LitePager](https://github.com/Ifxcyr/LitePager)
 
@@ -258,6 +266,12 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [BasePopup](https://github.com/razerdp/BasePopup)
 * [EasyPopup](https://github.com/zyyoona7/EasyPopup)
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
+* [EasyFloat](https://github.com/princekin-f/EasyFloat)
+
+    浮窗从未如此简单。
+* [BGATransformersTip-Android](https://github.com/bingoogolapple/BGATransformersTip-Android)
+
+    Android通用PopupWindow，支持从锚点控件各位弹浮窗，可配箭头指示器展示于浮窗边缘任意位。
 ### 弹幕
 [Muti-Barrage](https://github.com/mCyp/Muti-Barrage)
 ### 二维码
@@ -373,9 +387,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 ### 测试
 [SoloPi](https://github.com/alipay/SoloPi)
 ### 其它  
-* [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
-
-    任意拖拽布局（扩展自QQ空间列表Header效果）
 * [ExpandableSelectionView](https://github.com/ashrafDoubleO7/ExpandableSelectionView)
 
     A fully customizable Android Expandable Selection Drop-down View that pushes views down.
@@ -436,9 +447,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [simple-phone](https://github.com/arekolek/simple-phone)
 
     Bare minimum implementation of an Android Phone app.
-* [EasyFloat](https://github.com/princekin-f/EasyFloat)
-
-    浮窗从未如此简单。
 * [ChannelView](https://github.com/chengzhicao/ChannelView)
 
     一款频道选择器，可进行频道拖动、排序、增删，动态改变高度，精简流畅。
