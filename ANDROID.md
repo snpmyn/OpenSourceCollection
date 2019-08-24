@@ -152,8 +152,7 @@
 * [hellocharts-android](https://github.com/lecho/hellocharts-android)
 * [SparkLineLayout](https://github.com/majorkik/SparkLineLayout)
 
-    Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.
-   
+    Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.   
 ### 白板
 * [WhiteBoard](https://github.com/guanpy/WhiteBoard)
 
