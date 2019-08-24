@@ -73,6 +73,15 @@
 * [ExoPlayer](https://github.com/google/ExoPlayer)
 
     An extensible media player for Android.
+* [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
+
+    高仿抖音照片电影功能。
+* [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
+
+    Very slim music player 100% made in Italy.
+* [audio-visualizer-android](https://github.com/gauravk95/audio-visualizer-android)
+
+    🎵 [Android Library] A light-weight and easy-to-use Audio Visualizer for Android.
 ### 图片
 ##### 加载
 * [coil](https://github.com/coil-kt/coil)
@@ -194,6 +203,9 @@
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局
+[CompoundLayout](https://github.com/Jaouan/CompoundLayout)
+
+It's an Android library that allows you to use Layout as RadioButton or CheckBox. 
 ##### 拖拽
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
@@ -389,16 +401,12 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 ### 其它  
 * [ExpandableSelectionView](https://github.com/ashrafDoubleO7/ExpandableSelectionView)
 
-    A fully customizable Android Expandable Selection Drop-down View that pushes views down.
-* [CompoundLayout](https://github.com/Jaouan/CompoundLayout)
-
-    It's an Android library that allows you to use Layout as RadioButton or CheckBox.
+    A fully customizable Android Expandable Selection Drop-down View that pushes views down.           
 * [ViewsFrom](https://github.com/Jaouan/ViewsFrom) 
 
-    Android librarie that allows you to easily find and animate child views from one or multiple ViewGroups using their tag, type, visibility and much more.
-* [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
-
-    高仿抖音照片电影功能。
+    Android librarie that allows you to easily find and animate child
+    views from one or multiple ViewGroups using their tag, type,
+    visibility and much more.
 * [DiDiCallCar](https://github.com/18601949127/DiDiCallCar)
 
     仿滴滴出行。
