@@ -21,6 +21,8 @@
 * [logback-android](https://github.com/tony19/logback-android)
 
     📄The reliable, generic, fast and flexible logging framework for android.
+### 异常
+[SpiderMan](https://github.com/simplepeng/SpiderMan)
 ### Toast
 * [Toasty](https://github.com/GrenderG/Toasty)
 
@@ -59,7 +61,7 @@
 ### UI
 [QMUI_Android](https://github.com/Tencent/QMUI_Android)
 
-提高 Android UI 开发效率的 UI 库。
+提高Android UI开发效率UI库。
 ### 日历
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
@@ -69,7 +71,7 @@
 * [CameraView](https://github.com/CJT2325/CameraView)
 * [CameraView](https://github.com/natario1/CameraView)
 * [CainCamera](https://github.com/CainKernel/CainCamera)
-### 音频
+### 音视频
 * [mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg)
 * [EpMedia](https://github.com/yangjie10930/EpMedia)
 * [RxFFmpeg](https://github.com/microshow/RxFFmpeg)
@@ -85,7 +87,10 @@
     Very slim music player 100% made in Italy.
 * [audio-visualizer-android](https://github.com/gauravk95/audio-visualizer-android)
 
-    🎵 [Android Library] A light-weight and easy-to-use Audio Visualizer for Android.
+    🎵 [Android Library] A light-weight and easy-to-use Audio Visualizer for Android.  
+* [MusicWave](https://github.com/akshay2211/MusicWave)
+
+    With MusicWave represent your Sound in a gradient colored Visualization.
 ### 图片
 ##### 加载
 * [coil](https://github.com/coil-kt/coil)
@@ -139,6 +144,11 @@
 * [SparkLineLayout](https://github.com/majorkik/SparkLineLayout)
 
     Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.
+   
+### 白板
+* [WhiteBoard](https://github.com/guanpy/WhiteBoard)
+
+    Android白板，支持涂鸦和文字输入等。
 ### 搜索框
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 * [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
@@ -356,6 +366,8 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 
     Event Bus By RxJava.
 * [CEventCenter](https://github.com/FreddyChen/CEventCenter)
+
+    Android事件分发中心库，基于对象池及接口回调实现类似BroadcastReceiver/RxBus/EventBus等消息事件传递，用于Activity/Fragment/Service间消息传递通讯。
 ### API管理
 [yapi](https://github.com/YMFE/yapi)
 ### 优化
@@ -401,9 +413,15 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 ### 版本更新
 * [XUpdate](https://github.com/xuexiangjys/XUpdate)
 * [AppUpdate](https://github.com/WVector/AppUpdate)
+
+    🚀 Android 版本更新 🚀 a library for android version update 🚀
 * [CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
 ### 指纹识别
-[BiometricPrompt](https://github.com/ZuoHailong/BiometricPrompt)
+[BiometricPrompt](https://github.com/ZuoHailong/BiometricPrompt) 
+### 前后台
+[AndroidProcess](https://github.com/wenmingvs/AndroidProcess)
+
+判App于前后台六法。
 ### 测试
 [SoloPi](https://github.com/alipay/SoloPi)
 ### 其它  

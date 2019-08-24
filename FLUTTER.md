@@ -1,3 +1,6 @@
+* [flutter-go](https://github.com/alibaba/flutter-go)
+
+    flutter开发者帮助APP，含flutter常用140+组件demo演示与中文文档。
 * [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
     An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
