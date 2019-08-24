@@ -55,7 +55,11 @@
 ### OCR
 * [tesseract](https://github.com/tesseract-ocr/tesseract)
 * [tess-two](https://github.com/rmtheis/tess-two)
-* [ScanKing](https://github.com/babylikebird/ScanKing)
+* [ScanKing](https://github.com/babylikebird/ScanKing) 
+### UI
+[QMUI_Android](https://github.com/Tencent/QMUI_Android)
+
+提高 Android UI 开发效率的 UI 库。
 ### 日历
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView)
