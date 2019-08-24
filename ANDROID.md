@@ -352,6 +352,9 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [materialish-progress](https://github.com/pnikosis/materialish-progress)
 
     A material style progress wheel compatible with 2.3.
+* [ProgressView](https://github.com/WhiteDG/ProgressView)
+
+    Styleable progress view.
 ### ConstraintLayout
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 ### 表格
@@ -456,9 +459,7 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
     A fully customizable Android Expandable Selection Drop-down View that pushes views down.           
 * [ViewsFrom](https://github.com/Jaouan/ViewsFrom) 
 
-    Android librarie that allows you to easily find and animate child
-    views from one or multiple ViewGroups using their tag, type,
-    visibility and much more.
+    Android librarie that allows you to easily find and animate child views from one or multiple ViewGroups using their tag, type, visibility and much more.           
 * [DiDiCallCar](https://github.com/18601949127/DiDiCallCar)
 
     仿滴滴出行。
@@ -485,10 +486,7 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
     A simple customised version of the TextInputLayout from the Android Design Support Library ⌨
 * [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary)
 
-    This is a library to help creating expanding views with animation in android.
-* [ProgressView](https://github.com/WhiteDG/ProgressView)
-
-    Styleable progress view.
+    This is a library to help creating expanding views with animation in android.   
 * [MarkdownView](https://github.com/GrenderG/MarkdownView)
 
     WebView implementation supporting Markdown rendering.
