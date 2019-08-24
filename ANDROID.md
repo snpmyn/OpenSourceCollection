@@ -79,6 +79,9 @@
 * [ExoPlayer](https://github.com/google/ExoPlayer)
 
     An extensible media player for Android.
+* [SoundRecorder](https://github.com/dkim0419/SoundRecorder)
+
+    A simple sound recording app implementing Material Design.
 * [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
 
     高仿抖音照片电影功能。
@@ -127,7 +130,7 @@
 * [DragCloseHelper](https://github.com/bauer-bao/DragCloseHelper)
 ##### 缩略、水印
 [simpleimage](https://github.com/alibaba/simpleimage)
-### 权限
+### 权限   
 * [Dexter](https://github.com/Karumi/Dexter)
 * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
 * [permissions-dispatcher-plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin)
@@ -135,7 +138,10 @@
 * [SoulPermission](https://github.com/soulqw/SoulPermission)
 * [FloatWindowPermission](https://github.com/zhaozepeng/FloatWindowPermission)
 
-    This repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime.
+    This repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime.    
+* [permissions4m](https://github.com/jokermonn/permissions4m)
+
+    🔧国产手机5.0、6.0权限适配框架/编译时注解框架/an Android Runtime Permissions Tool by using APT。   
 ### 图表
 * [f2](https://github.com/antvis/f2)
 * [UI](https://github.com/supertaohaili/UI)
@@ -199,6 +205,10 @@
 * [Sofia](https://github.com/yanzhenjie/Sofia)
 * [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
 * [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil)
+### 对话框
+[sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
+
+SweetAlert for Android, a beautiful and clever alert dialog.
 ### TextView
 ##### 多态
 * [Spanomatic](https://github.com/grivos/Spanomatic)
@@ -225,9 +235,12 @@ A View with text path animation!
 ### 粘性头
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 ### 布局
-[CompoundLayout](https://github.com/Jaouan/CompoundLayout)
+* [CompoundLayout](https://github.com/Jaouan/CompoundLayout)
 
-It's an Android library that allows you to use Layout as RadioButton or CheckBox. 
+    It's an Android library that allows you to use Layout as RadioButton or CheckBox. 
+* [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+
+    Android library to observe scroll events on scrollable views. 
 ##### 拖拽
 [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
@@ -298,8 +311,10 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 ### PopupWindow
 * [XPopup](https://github.com/li-xiaojun/XPopup)
 * [BasePopup](https://github.com/razerdp/BasePopup)
-* [EasyPopup](https://github.com/zyyoona7/EasyPopup)
 * [PopupMenuView](https://github.com/minetsh/PopupMenuView)
+* [EasyPopup](https://github.com/zyyoona7/EasyPopup)
+
+    PopupWindow Wrapper对PopupWindow封装。可指定相对anchor view 各方位弹出，背景变暗，指定ViewGroup背景变暗等特性。   
 * [EasyFloat](https://github.com/princekin-f/EasyFloat)
 
     浮窗从未如此简单。
@@ -334,6 +349,9 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget)
 * [SeekArc](https://github.com/neild001/SeekArc)
 * [CircleProgressView](https://github.com/jenly1314/CircleProgressView)
+* [materialish-progress](https://github.com/pnikosis/materialish-progress)
+
+    A material style progress wheel compatible with 2.3.
 ### ConstraintLayout
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 ### 表格
@@ -383,6 +401,7 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
     Optimizer for mobile applications.
 ### 导航栏
 * [EasyNavigation](https://github.com/forvv231/EasyNavigation)
+* [TabContainerView](https://github.com/chenpengfei88/TabContainerView)
 * [WeChatBottomNavigation](https://github.com/buxiliulian/WeChatBottomNavigation)
 
     高仿微信底部导航栏动画。
@@ -494,3 +513,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [Nier-Visualizer](https://github.com/bogerchan/Nier-Visualizer)
 
     A lightweight and efficient Android visual library.
+* [GoodView](https://github.com/venshine/GoodView)
+
+    🔥 Android点赞+1效果，支持图文。
