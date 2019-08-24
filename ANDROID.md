@@ -148,7 +148,11 @@
 ### 白板
 * [WhiteBoard](https://github.com/guanpy/WhiteBoard)
 
-    Android白板，支持涂鸦和文字输入等。
+    Android白板，支持涂鸦和文字输入等。   
+* [WhiteBoard](https://github.com/dsbGenius/WhiteBoard)
+
+    SketchBoard是一可涂鸦、绘图、添文字、图像（旋转缩放）、背景的Fragment，其中主由SketchView用matrix完成所有图绘操作。
+    SketchBoard is a Fragment that can add a graffiti, graphics, text, images (rotating and scaling), or background.
 ### 搜索框
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 * [MaterialSearchView](https://github.com/lapism/MaterialSearchView)
@@ -417,7 +421,10 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
     🚀 Android 版本更新 🚀 a library for android version update 🚀
 * [CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib)
 ### 指纹识别
-[BiometricPrompt](https://github.com/ZuoHailong/BiometricPrompt) 
+* [BiometricPrompt](https://github.com/ZuoHailong/BiometricPrompt) 
+* [soter](https://github.com/Tencent/soter)
+
+    A secure and quick biometric authentication standard and platform in Android held by Tencent.
 ### 前后台
 [AndroidProcess](https://github.com/wenmingvs/AndroidProcess)
 
