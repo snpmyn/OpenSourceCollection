@@ -425,6 +425,15 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [GradientView](https://github.com/lopspower/GradientView)
 * [HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
 * [ColorPicker](https://github.com/No89757/ColorPicker)
+
+### 拼音
+[TinyPinyin](https://github.com/promeG/TinyPinyin)
+
+适用于Java和Android快速、低内存占用汉字转拼音库。    
+### 自然语言处理
+[HanLP](https://github.com/hankcs/HanLP)
+
+自然语言处理、中文分词、词性标注、命名实体识别、依存句法分析、新词发现、关键词短语提取、自动摘要、文本分类聚类、拼音简繁。
 ### HTML格式化
 * [HtmlSpanner](https://github.com/NightWhistler/HtmlSpanner)
 
