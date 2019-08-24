@@ -192,7 +192,11 @@
 ##### 折展
 * [FoldText_Java](https://github.com/zzh12138/FoldText_Java)
 * [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
-* [ExpandTextView](https://github.com/lcodecorex/ExpandTextView)
+* [ExpandTextView](https://github.com/lcodecorex/ExpandTextView) 
+##### 路径
+[TextPathView](https://github.com/totond/TextPathView)
+
+A View with text path animation!
 ### FloatingActionButton
 [CounterFab](https://github.com/andremion/CounterFab)
 ### GIF
