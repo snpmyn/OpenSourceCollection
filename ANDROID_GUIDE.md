@@ -1,0 +1,6 @@
+* [GuideDialog](https://github.com/open-android/GuideDialog)
+* [AppIntro](https://github.com/paolorotolo/AppIntro)
+* [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
+* [TapTargetView](https://github.com/KeepSafe/TapTargetView)
+* [ShowcaseView](https://github.com/erkutaras/ShowcaseView)
+* [GuideView-master](https://github.com/qiushi123/GuideView-master)

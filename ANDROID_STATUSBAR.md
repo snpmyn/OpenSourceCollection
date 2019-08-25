@@ -1,0 +1,6 @@
+* [status-bar-compat](https://github.com/msdx/status-bar-compat)
+* [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+* [Sofia](https://github.com/yanzhenjie/Sofia)
+* [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
+* [StatusBarUtil](https://github.com/Ye-Miao/StatusBarUtil)
+* [JellyToolbar](https://github.com/Yalantis/JellyToolbar)

@@ -1,0 +1,1 @@
+[AndResGuard](https://github.com/shwenzhang/AndResGuard)
