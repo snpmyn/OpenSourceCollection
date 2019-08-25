@@ -150,6 +150,7 @@
 * [UI](https://github.com/supertaohaili/UI)
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * [hellocharts-android](https://github.com/lecho/hellocharts-android)
+* [XPPieChart](https://github.com/MNXP/XPPieChart)
 * [SparkLineLayout](https://github.com/majorkik/SparkLineLayout)
 
     Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.   
@@ -357,6 +358,10 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [ProgressView](https://github.com/WhiteDG/ProgressView)
 
     Styleable progress view.
+    
+* [arc-seekbar](https://github.com/GcsSloop/arc-seekbar)
+
+    Android圆弧形SeekBar。
 ### ConstraintLayout
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 ### 表格
@@ -525,3 +530,6 @@ Qigsaw ['tʃiɪɡsɔ] is a dynamic modularization library which is based on Andr
 * [GoodView](https://github.com/venshine/GoodView)
 
     🔥 Android点赞+1效果，支持图文。
+* [FontResize](https://github.com/liujingxing/FontResize)
+
+    仿微信/支付宝字体大小调整控件。
