@@ -220,6 +220,7 @@ SweetAlert for Android, a beautiful and clever alert dialog.
 * [FoldText_Java](https://github.com/zzh12138/FoldText_Java)
 * [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
 * [ExpandTextView](https://github.com/lcodecorex/ExpandTextView) 
+* [ExpandableTextView](https://github.com/MZCretin/ExpandableTextView)
 ##### 路径
 [TextPathView](https://github.com/totond/TextPathView)
 
