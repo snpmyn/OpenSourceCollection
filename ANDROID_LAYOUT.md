@@ -16,23 +16,27 @@ Android librarie that allows you to easily find and animate child views from one
 [RippleEffect](https://github.com/traex/RippleEffect)
 
 Implementation of Ripple effect from Material Design for Android API 9+.
-#### 约束
+### 循环揭示
+[CircularReveal](https://github.com/ozodrukh/CircularReveal)
+
+Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+.
+### 约束
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 ### 滑动
 * [NestedScrollingDemo](https://github.com/xue5455/NestedScrollingDemo)
 * [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
     Android library to observe scroll events on scrollable views. 
-#### 拖拽
+### 拖拽
 * [DragCloseHelper](https://github.com/bauer-bao/DragCloseHelper)
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
     任意拖拽布局（扩展自QQ空间列表Header效果）
-#### 百分比
+### 百分比
 [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
 A extends lib for android-percent-support（Google百分比布局库扩展） 
-#### 布局管理器
+### 布局管理器
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 

@@ -6,3 +6,6 @@
 * [stencil](https://github.com/thoughtbot/stencil)
 
     Android library, written exclusively in kotlin, for animating the path created from text.
+* [Revealator](https://github.com/Jaouan/Revealator)
+
+    An helper to circle reveal/unreveal a view easily, with translations and childs animations.
