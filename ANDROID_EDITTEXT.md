@@ -6,3 +6,6 @@
 * [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
     A simple customised version of the TextInputLayout from the Android Design Support Library ⌨
+* [CodeEditText](https://github.com/lukelorusso/CodeEditText)
+
+    [AndroidLib] A custom EditText tailor-made for codes and password input 💬
