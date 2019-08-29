@@ -3,6 +3,9 @@
 * [permissions-dispatcher-plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin)
 * [easypermissions](https://github.com/googlesamples/easypermissions)
 * [SoulPermission](https://github.com/soulqw/SoulPermission)
+* [AndPermission](https://github.com/yanzhenjie/AndPermission)
+
+    🍓 Permissions manager for Android platform.
 * [FloatWindowPermission](https://github.com/zhaozepeng/FloatWindowPermission)
 
     This repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime.    
