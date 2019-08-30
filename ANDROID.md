@@ -42,7 +42,7 @@
 ### [TabLayout](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_TABLAYOUT.md)
 ### [PopupWindow](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_POPUPWINDOW.md)
 ### [Barrage](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_BARRAGE.md)
-### [QR Code](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_QR_CODE.md)
+### [QR And Bar Code](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_QR_CODE.md)
 ### [EditText](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_EDITTEXT.md)
 ### [Decompile](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_DECOMPILE.md)
 ### [Progressbar](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PROGRESSBAR.md)
