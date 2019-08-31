@@ -15,3 +15,8 @@
 * [BGAProgressBar-Android](https://github.com/bingoogolapple/BGAProgressBar-Android)
 
     带百分比数字水平、圆形进度条。
+* [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+* [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
+
+    Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. 
+    Besides, some Drawable can customize the loading progress too.
