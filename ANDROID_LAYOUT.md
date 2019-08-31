@@ -22,6 +22,8 @@ Implementation of Ripple effect from Material Design for Android API 9+.
 Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+.
 ### 约束
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
+
+Repository of examples that showcase the various features of ConstraintLayout.
 ### 滑动
 * [NestedScrollingDemo](https://github.com/xue5455/NestedScrollingDemo)
 * [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
