@@ -20,3 +20,6 @@
 
     Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. 
     Besides, some Drawable can customize the loading progress too.
+* [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
+
+    Android loading animations.
