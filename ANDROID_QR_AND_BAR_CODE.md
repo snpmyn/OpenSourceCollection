@@ -19,3 +19,6 @@
 * [QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView)
 
     Modification of ZXING Barcode Scanner project for easy Android QR-Code detection and AR purposes.
+* [zBarLibary](https://github.com/bertsir/zBarLibary)
+
+    🔥zbar扫描快，zxing可生成和识别本地。So把它们结合在一起，这样Android二维码（条形码）功能更便捷。
