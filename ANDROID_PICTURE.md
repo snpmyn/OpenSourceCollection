@@ -16,6 +16,9 @@
 * [RevealBanner](https://github.com/tokiii/RevealBanner)
 
     🚀🚀🚀仿转转Banner动画。
+* [BannerViewPager](https://github.com/zhpanvip/BannerViewPager)
+
+    无限循环轮播ViewPager。
 ### 裁剪
 * [clipimage](https://github.com/gdutxiaoxu/clipimage)
 * [uCrop](https://github.com/Yalantis/uCrop)
