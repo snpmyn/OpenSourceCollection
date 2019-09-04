@@ -23,3 +23,6 @@
 * [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
 
     Very slim music player 100% made in Italy.
+* [Nier-Visualizer](https://github.com/bogerchan/Nier-Visualizer)
+
+    A lightweight and efficient Android visual library.

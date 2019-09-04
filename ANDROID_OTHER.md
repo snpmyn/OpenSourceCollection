@@ -19,9 +19,6 @@
 * [EasySegmentedBarView](https://github.com/zhou-you/EasySegmentedBarView)
 
     简单易用自定分段控件，方便快速实现分段效果。支持xml配、代码配、分段规则按均分/比例分、数字分段、文本分段、渐变分段、条式正常/圆形/三角形、segment文字样式、进度设置、进度标记类型设置、分段描述设置、其它更多自定设置等功能。
-* [Nier-Visualizer](https://github.com/bogerchan/Nier-Visualizer)
-
-    A lightweight and efficient Android visual library.
 * [GoodView](https://github.com/venshine/GoodView)
 
     🔥 Android点赞+1效果，支持图文。
