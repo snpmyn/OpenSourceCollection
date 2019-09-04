@@ -20,3 +20,6 @@
 * [MusicWave](https://github.com/akshay2211/MusicWave)
 
     With MusicWave represent your Sound in a gradient colored Visualization.
+* [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
+
+    Very slim music player 100% made in Italy.
