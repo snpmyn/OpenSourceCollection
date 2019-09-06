@@ -53,7 +53,7 @@
 ### [Proguard](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PROGUARD.md)
 ### [Unpack](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_UNPACK.md)
 ### [Pluginization](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PLUGINIZATION.md)
-### [Event Distribution](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_EVENT_DISTRIBUTION.md)
+### [Event](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_EVENT.md)
 ### [API](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_API.md)
 ### [Optimization](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_OPTIMIZATION.md)
 ### [NavigationView](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_NAVIGATIONVIEW.md)
