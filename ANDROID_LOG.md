@@ -6,4 +6,4 @@
     ✔Simple, pretty and powerful logger for android.
 * [logback-android](https://github.com/tony19/logback-android)
 
-    📄The reliable, generic, fast and flexible logging framework for android.
+    📄 The reliable, generic, fast and flexible logging framework for android.

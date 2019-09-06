@@ -15,7 +15,7 @@
 * [RecyclerBanner](https://github.com/ren93/RecyclerBanner)
 * [RevealBanner](https://github.com/tokiii/RevealBanner)
 
-    🚀🚀🚀仿转转Banner动画。
+    🚀🚀🚀 仿转转Banner动画。
 * [BannerViewPager](https://github.com/zhpanvip/BannerViewPager)
 
     无限循环轮播ViewPager。

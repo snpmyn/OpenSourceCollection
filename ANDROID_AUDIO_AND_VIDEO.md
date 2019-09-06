@@ -16,7 +16,7 @@
     Very slim music player 100% made in Italy.
 * [audio-visualizer-android](https://github.com/gauravk95/audio-visualizer-android)
 
-    🎵 [Android Library] A light-weight and easy-to-use Audio Visualizer for Android.  
+    🎵[Android Library] A light-weight and easy-to-use Audio Visualizer for Android.  
 * [MusicWave](https://github.com/akshay2211/MusicWave)
 
     With MusicWave represent your Sound in a gradient colored Visualization.

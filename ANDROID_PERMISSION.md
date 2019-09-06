@@ -11,4 +11,4 @@
     This repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime.    
 * [permissions4m](https://github.com/jokermonn/permissions4m)
 
-    🔧国产手机5.0、6.0权限适配框架/编译时注解框架/an Android Runtime Permissions Tool by using APT。 
+    🔧 国产手机5.0、6.0权限适配框架/编译时注解框架/an Android Runtime Permissions Tool by using APT。 
