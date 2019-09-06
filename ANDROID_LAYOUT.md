@@ -16,10 +16,15 @@ Android librarie that allows you to easily find and animate child views from one
 [RippleEffect](https://github.com/traex/RippleEffect)
 
 Implementation of Ripple effect from Material Design for Android API 9+.
-### 循环揭示
+### 揭示
+##### 循环揭示
 [CircularReveal](https://github.com/ozodrukh/CircularReveal)
 
 Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+.
+##### 单次揭示
+[RevealLayout](https://github.com/goweii/RevealLayout)
+
+可指定两子布局，圆形揭示效果切选状。
 ### 约束
 [ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples)
 
