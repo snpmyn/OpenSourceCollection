@@ -42,7 +42,11 @@ Repository of examples that showcase the various features of ConstraintLayout.
 ### 百分比
 [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
-A extends lib for android-percent-support（Google百分比布局库扩展） 
+A extends lib for android-percent-support（Google百分比布局库扩展）
+### 圆角
+[rclayout](https://github.com/GcsSloop/rclayout) 
+
+[暂停维护]Android通用圆角布局。
 ### 布局管理器
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
