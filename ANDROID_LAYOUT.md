@@ -48,3 +48,6 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 
     有焦点条目水平/垂直滚动RecyclerView-LayoutManager。仿Android豆瓣书影音“推荐”频道列表布局。
+* [ViewPagerLayoutManager](https://github.com/leochuan/ViewPagerLayoutManager)
+
+    ViewPager like LayoutManager which supports some awesome animations and infinite scroll.
