@@ -7,5 +7,8 @@
 * [fuel](https://github.com/kittinunf/fuel)
 
     The easiest HTTP networking library for Kotlin/Android.
+* [mars](https://github.com/Tencent/mars)
+
+    Mars is a cross-platform network component developed by WeChat.
 ### 拦截
 [chuck](https://github.com/jgilfelt/chuck)
