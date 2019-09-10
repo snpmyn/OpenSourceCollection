@@ -12,3 +12,6 @@
 * [android-ui](https://github.com/markushi/android-ui)
 
     Android UI library.
+* [CircularAnim](https://github.com/XunMengWinter/CircularAnim)
+
+    Android ripple animation helper, easy to create Circular Reveal.
