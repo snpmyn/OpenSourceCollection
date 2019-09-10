@@ -6,3 +6,6 @@
 * [MaterialArcMenu](https://github.com/saurabharora90/MaterialArcMenu)
 
     An android custom view which allows you to have a arc style-menu on your pages.
+* [BoomMenu](https://github.com/Nightonke/BoomMenu)
+
+    A menu which can ... BOOM! - Android
