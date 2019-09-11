@@ -6,3 +6,6 @@
 * [QQMenu](https://github.com/ren93/QQMenu)
 
     仿最新版QQ底部动态按钮。
+* [WeChatBottomNavigation](https://github.com/buxiliulian/WeChatBottomNavigation)
+
+    高仿微信底部导航栏动画。
