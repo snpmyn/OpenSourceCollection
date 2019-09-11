@@ -52,7 +52,7 @@
 ### [Fragment(碎片)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_FRAGMENT.md)
 ### [Proguard(混淆)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PROGUARD.md)
 ### [Unpack(打包)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_UNPACK.md)
-### [Pluginization(插件)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PLUGINIZATION.md)
+### [Pluginization(插件化)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PLUGINIZATION.md)
 ### [Event(事件)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_EVENT.md)
 ### [API(API)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_API.md)
 ### [Optimization(优化)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_OPTIMIZATION.md)
