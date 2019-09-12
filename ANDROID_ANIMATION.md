@@ -15,3 +15,6 @@
 * [CircularAnim](https://github.com/XunMengWinter/CircularAnim)
 
     Android ripple animation helper, easy to create Circular Reveal.
+* [Bubble-Picker](https://github.com/igalata/Bubble-Picker)
+
+    An easy-to-use animation which can be used for content picking for Android.
