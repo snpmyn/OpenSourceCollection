@@ -1,3 +1,3 @@
 [AndroidProcess](https://github.com/wenmingvs/AndroidProcess)
 
-判App于前后台六法。
+六法判App于前后台。

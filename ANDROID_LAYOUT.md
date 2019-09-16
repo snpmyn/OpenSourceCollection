@@ -47,6 +47,10 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 [rclayout](https://github.com/GcsSloop/rclayout) 
 
 [暂停维护]Android通用圆角布局。
+### 流式
+[FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
+
+[不再维护]Android流式布局，支持单选、多选等，适合产品标签等。
 ### 布局管理器
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)

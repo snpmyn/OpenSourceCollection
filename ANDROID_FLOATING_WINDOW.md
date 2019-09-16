@@ -14,7 +14,7 @@
     Android通用PopupWindow，支持从锚点控件各位弹浮窗，可配箭头指示器展示于浮窗边缘任意位。
 * [BGATransformersTip-Android](https://github.com/bingoogolapple/BGATransformersTip-Android)
 
-    Android通用PopupWindow，再也不找UI切.9图了，大致节省30分钟开发时间。
+    Android通用PopupWindow，再也不找UI切.9图了，大致省30分钟开发时间。
 * [SuspensionWindow](https://github.com/24Kshign/SuspensionWindow)
 
     高仿微信阅读文章悬浮窗（含8.0权限适配）。

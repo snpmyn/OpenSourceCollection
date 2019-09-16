@@ -26,3 +26,6 @@
 * [Nier-Visualizer](https://github.com/bogerchan/Nier-Visualizer)
 
     A lightweight and efficient Android visual library.
+* [ScreenRecorder](https://github.com/yrom/ScreenRecorder)
+
+    Implement screen capture without root on Android 5.0+ by using MediaProjectionManager, VirtualDisplay, AudioRecord, MediaCodec and MediaMuxer APIs.

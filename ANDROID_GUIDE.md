@@ -6,4 +6,4 @@
 * [GuideView-master](https://github.com/qiushi123/GuideView-master)
 * [android-adDialog](https://github.com/yipianfengye/android-adDialog)
 
-    简单、强大的广告活动弹窗控件。
+    简单、强大广告活动弹窗控件。

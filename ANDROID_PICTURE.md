@@ -24,6 +24,12 @@
 * [uCrop](https://github.com/Yalantis/uCrop)
 
     Image Cropping Library for Android.
+* [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
+
+    Image Cropping Library for Android, optimized for Camera / Gallery.
+* [cropper](https://github.com/edmodo/cropper)
+
+    Android widget for cropping and rotating an image.
 ### 圆形
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 ### 配色

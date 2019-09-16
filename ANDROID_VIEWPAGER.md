@@ -1,7 +1,7 @@
 ### 控件
 * [LitePager](https://github.com/Ifxcyr/LitePager)
 
-    LitePager，一轻量级ViewPager，仿新版网易云歌单广场。
+    LitePager，轻量级ViewPager，仿新版网易云歌单广场。
 * [spager](https://github.com/alfianyusufabdullah/spager)
 
     Fast ViewPager Library - Lets Make ViewPager "Without" Adapter 🎉

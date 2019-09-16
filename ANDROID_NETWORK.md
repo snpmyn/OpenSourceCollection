@@ -10,5 +10,9 @@
 * [mars](https://github.com/Tencent/mars)
 
     Mars is a cross-platform network component developed by WeChat.
+### WebSocket
+[android-websockets](https://github.com/codebutler/android-websockets)
+
+Bare minimum websockets (hybi13/RFC) client for Android.
 ### 拦截
 [chuck](https://github.com/jgilfelt/chuck)
