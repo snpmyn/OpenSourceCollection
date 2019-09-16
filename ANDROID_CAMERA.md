@@ -4,3 +4,6 @@
 * [CameraMaskDemo](https://github.com/JustinRoom/CameraMaskDemo)
 
     相机遮罩、扫描动画。
+* [SmartCamera](https://github.com/pqpo/SmartCamera)
+
+    📷 SmartCamera是一Android相机拓展库，实时采集并识别相机内物体边框吻合指定区否。
