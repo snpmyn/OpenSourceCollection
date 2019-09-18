@@ -9,3 +9,6 @@
 * [CodeEditText](https://github.com/lukelorusso/CodeEditText)
 
     [AndroidLib] A custom EditText tailor-made for codes and password input 💬
+* [Emoji](https://github.com/vanniktech/Emoji)
+
+    A simple library to add Emoji support to your Android Application.
