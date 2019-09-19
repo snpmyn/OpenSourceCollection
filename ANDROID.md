@@ -8,6 +8,7 @@
 ### [Architecture(架构)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_ARCHITECTURE.md)    
 ### [Hot Fix(热修复)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_HOT_FIX.md)
 ### [String(字符串)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_STRING.md)
+### [Preload(预加载)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PRELOAD.md)
 ### [Design Patterns(设计模式)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_DESIGN_PATTERNS.md)
 ### [Git(Git)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_GIT.md)
 ### [OCR(光学识别)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_OCR.md)
