@@ -62,3 +62,6 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [pager-layoutmanager](https://github.com/GcsSloop/pager-layoutmanager)
 
     [暂停维护]Android网格分页布局。
+* [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
+
+    自定LayoutManager。仿探探、人人影视、炫动滑动、卡片层叠、流式布局等。

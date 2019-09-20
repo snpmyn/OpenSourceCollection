@@ -6,3 +6,7 @@
 * [AdvancedTextView](https://github.com/devilist/AdvancedTextView)
 * [ExpandTextView](https://github.com/lcodecorex/ExpandTextView) 
 * [ExpandableTextView](https://github.com/MZCretin/ExpandableTextView)
+### 倾斜
+[SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
+
+Android slanted TextView.

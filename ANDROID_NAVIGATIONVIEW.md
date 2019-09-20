@@ -1,5 +1,11 @@
 * [EasyNavigation](https://github.com/forvv231/EasyNavigation)
 * [TabContainerView](https://github.com/chenpengfei88/TabContainerView)
+* [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+
+    A custom ViewPager title strip which gives continuous feedback to the user when scrolling.
+* [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
+
+    Navigation tab strip with smooth interaction.
 * [QQMenu](https://github.com/ren93/QQMenu)
 
     仿最新版QQ底部动态按钮。
