@@ -29,3 +29,6 @@
 * [ScreenRecorder](https://github.com/yrom/ScreenRecorder)
 
     Implement screen capture without root on Android 5.0+ by using MediaProjectionManager, VirtualDisplay, AudioRecord, MediaCodec and MediaMuxer APIs.
+* [UltimateMusicPicker](https://github.com/DeweyReed/UltimateMusicPicker)
+
+    An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
