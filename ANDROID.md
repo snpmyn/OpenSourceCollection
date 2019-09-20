@@ -56,7 +56,7 @@
 ### [Event(事件)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_EVENT.md)
 ### [API(API)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_API.md)
 ### [Optimization(优化)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_OPTIMIZATION.md)
-### [NavigationView(导航栏)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_NAVIGATIONVIEW.md)
+### [NavigationView(导航视图)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_NAVIGATIONVIEW.md)
 ### [Sidebar(侧边栏)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_SIDEBAR.md)
 ### [Selector(选择器)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_SELECTOR.md)
 ### [Cache(缓存)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_CACHE.md)  
