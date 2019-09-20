@@ -59,3 +59,6 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [ViewPagerLayoutManager](https://github.com/leochuan/ViewPagerLayoutManager)
 
     ViewPager like LayoutManager which supports some awesome animations and infinite scroll.
+* [pager-layoutmanager](https://github.com/GcsSloop/pager-layoutmanager)
+
+    [暂停维护]Android网格分页布局。
