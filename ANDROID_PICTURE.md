@@ -19,6 +19,9 @@
 * [BannerViewPager](https://github.com/zhpanvip/BannerViewPager)
 
     无限循环轮播ViewPager。
+* [MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView)
+
+    仿魅族BannerView，图片轮播控件，支持多种模式切换、普通ViewPager使用、普通Banner使用、仿魅族Banner使用。
 ### 裁剪
 * [clipimage](https://github.com/gdutxiaoxu/clipimage)
 * [uCrop](https://github.com/Yalantis/uCrop)

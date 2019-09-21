@@ -7,6 +7,9 @@
 * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
 
     🍈 RecyclerView侧滑菜单、Item拖拽、滑删Item、自加更多、HeaderView、FooterView、Item分组黏贴。
+* [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)
+
+    RecyclerView下拉刷新、自动加载更多，仿IOS侧删。
 ### 适配器
 [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 

@@ -20,6 +20,9 @@
 * [MusicWave](https://github.com/akshay2211/MusicWave)
 
     With MusicWave represent your Sound in a gradient colored Visualization.
+* [audio-waveform](https://github.com/derlio/audio-waveform)
+
+    Show audio file's waveform, not spectrum.
 * [Music-Player-GO](https://github.com/enricocid/Music-Player-GO)
 
     Very slim music player 100% made in Italy.
