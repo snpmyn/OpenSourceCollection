@@ -49,9 +49,12 @@
 
     Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
 ### 预览
-[transferee](https://github.com/Hitomis/transferee)
+* [transferee](https://github.com/Hitomis/transferee)
 
-帮您从缩略图到原图无缝过渡转变神奇组件。
+    帮您从缩略图到原图无缝过渡转变神奇组件。
+* [MNImageBrowser](https://github.com/maning0303/MNImageBrowser)
+
+    图片浏览框架（适配AndroidX），类似微信图片浏览手势向下滑关。图片加载引擎自定，支持长按、单击监听、切换监听、自定任意遮罩层。实现各种效果，支持横竖屏切换，简单方便。
 ### 触摸
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
 
