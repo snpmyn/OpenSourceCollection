@@ -39,6 +39,9 @@ Repository of examples that showcase the various features of ConstraintLayout.
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
 
     任意拖拽布局（扩展自QQ空间列表Header效果）
+* [drag-to-close](https://github.com/davidmigloz/drag-to-close)
+
+    Android library that provides a view group which allows to finish an activity by dragging a view.
 ### 百分比
 [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
