@@ -4,6 +4,9 @@
 * [FontResize](https://github.com/liujingxing/FontResize)
 
     仿微信/支付宝字体大小调整控件。
+* [CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView)
+
+    Imitation of Ali credit sesame new old ring view.
 * [DiDiCallCar](https://github.com/18601949127/DiDiCallCar)
 
     仿滴滴出行。
