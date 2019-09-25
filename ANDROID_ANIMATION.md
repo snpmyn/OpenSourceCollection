@@ -18,3 +18,6 @@
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker)
 
     An easy-to-use animation which can be used for content picking for Android.
+* [RxAnimation](https://github.com/lopspower/RxAnimation)
+
+    Simple way to animate your views on Android with Rx 🚀

@@ -6,6 +6,9 @@
 * [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)
 
     Navigation tab strip with smooth interaction.
+* [ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)
+
+    Yet another material bottom bar library for Android.
 * [QQMenu](https://github.com/ren93/QQMenu)
 
     仿最新版QQ底部动态按钮。

@@ -6,6 +6,10 @@ It's an Android library that allows you to use Layout as RadioButton or CheckBox
 [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary)
 
 This is a library to help creating expanding views with animation in android.
+### 折展
+[ExpandableLayout](https://github.com/iammert/ExpandableLayout)
+
+Expandable LinearLayout.
 ### 表格
 [ViewsFrom](https://github.com/Jaouan/ViewsFrom) 
 
@@ -42,6 +46,14 @@ Repository of examples that showcase the various features of ConstraintLayout.
 * [drag-to-close](https://github.com/davidmigloz/drag-to-close)
 
     Android library that provides a view group which allows to finish an activity by dragging a view.
+### 飘动
+[DiagonalLayout](https://github.com/iammert/DiagonalLayout)
+
+With Diagonal Layout explore new styles and approaches on material design.
+### 进度
+[ProgressLayout](https://github.com/iammert/ProgressLayout)
+
+Custom progress layout view for Android.
 ### 百分比
 [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
@@ -68,3 +80,6 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 * [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
 
     自定LayoutManager。仿探探、人人影视、炫动滑动、卡片层叠、流式布局等。
+* [VegaLayoutManager](https://github.com/iammert/VegaLayoutManager)
+
+    A customized LayoutManager - fade and shrink the head itemView when scrolling.

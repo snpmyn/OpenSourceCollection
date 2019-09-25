@@ -5,6 +5,8 @@
 * [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 * [StatusLayout](https://github.com/Colaman0/StatusLayout)
 * [StatusView](https://github.com/iammert/StatusView)
+
+    Custom status view for Android.
 * [Gloading](https://github.com/luckybilly/Gloading)
 
     Show global loading status view in a low coupling way for Android App.

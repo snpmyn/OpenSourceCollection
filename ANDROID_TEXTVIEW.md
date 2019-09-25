@@ -10,3 +10,7 @@
 [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 
 Android slanted TextView.
+### 滑动
+[AutoScrollTextView](https://github.com/lopspower/AutoScrollTextView)
+
+Create circular ImageView in Android in the simplest way possible

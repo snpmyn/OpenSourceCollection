@@ -10,6 +10,9 @@
 * [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)
 
     RecyclerView下拉刷新、自动加载更多，仿IOS侧删。
+* [HFRecyclerView](https://github.com/lopspower/HFRecyclerView)
+
+    Add Header and/or Footer in your RecyclerView in the simplest way possible.
 ### 适配器
 [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 

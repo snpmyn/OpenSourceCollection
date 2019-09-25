@@ -4,6 +4,8 @@
 * [SearchDialog](https://github.com/wenwenwen888/SearchDialog)
 * [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)
 * [MultiSearchView](https://github.com/iammert/MultiSearchView)
+
+    Yet another built-in animated search view for Android.
 ### 过滤
 [SearchFilter](https://github.com/Yalantis/SearchFilter)
 

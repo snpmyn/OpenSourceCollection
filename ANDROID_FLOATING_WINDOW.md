@@ -15,6 +15,9 @@
 * [BGATransformersTip-Android](https://github.com/bingoogolapple/BGATransformersTip-Android)
 
     Android通用PopupWindow，再也不找UI切.9图了，大致省30分钟开发时间。
+* [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View)
+
+    A simple Floating Action Button that shows an anchored Navigation View.
 * [SuspensionWindow](https://github.com/24Kshign/SuspensionWindow)
 
     高仿微信阅读文章悬浮窗（含8.0权限适配）。

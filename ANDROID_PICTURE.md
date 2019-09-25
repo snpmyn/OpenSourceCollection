@@ -34,11 +34,20 @@
 
     Android widget for cropping and rotating an image.
 ### 圆形
-[CircleImageView](https://github.com/hdodenhof/CircleImageView)
+* [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+* [CircularImageView](https://github.com/lopspower/CircularImageView)
+
+    Create circular ImageView in Android in the simplest way possible.
 ### 配色
 [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
 ### 选择
-[ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+* [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+* [TedBottomPicker](https://github.com/iammert/TedBottomPicker)
+
+    TedBottomPicker is simple image picker using bottom sheet.
+* [Louvre](https://github.com/andremion/Louvre)
+
+    A small customizable library useful to handle an gallery image pick action built-in your app. 🌄🌠
 ### 缩放
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
 * [PhotoView](https://github.com/bm-x/PhotoView)
@@ -55,6 +64,9 @@
 * [MNImageBrowser](https://github.com/maning0303/MNImageBrowser)
 
     图片浏览框架（适配AndroidX），类似微信图片浏览手势向下滑关。图片加载引擎自定，支持长按、单击监听、切换监听、自定任意遮罩层。实现各种效果，支持横竖屏切换，简单方便。
+* [DragToDismissImageViewer](https://github.com/iammert/DragToDismissImageViewer)
+
+    Drag to dismiss image view in imageviewer activity.
 ### 触摸
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
 

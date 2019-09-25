@@ -23,3 +23,9 @@
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
 
     Android loading animations.
+* [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders)
+
+    Realize a beautiful circular fillable loaders to be used for splashscreen 🌊.
+* [CircularProgressBar](https://github.com/lopspower/CircularProgressBar)
+
+    Create circular ProgressBar in Android ⭕.
