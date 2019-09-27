@@ -20,6 +20,7 @@
 ### [Picture(图片)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PICTURE.md)
 ### [Permission(权限)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PERMISSION.md)  
 ### [Chart(图表)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_CHART.md)   
+### [Editor(编辑器)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_EDITOR.md)
 ### [White Board(白板)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_WHITE_BOARD.md)
 ### [Search(搜索)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_SEARCH.md)
 ### [Date(日期)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_DATE.md)

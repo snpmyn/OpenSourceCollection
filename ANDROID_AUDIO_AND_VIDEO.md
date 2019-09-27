@@ -5,6 +5,9 @@
 ### 播放
 ##### 前台
 * [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
+* [ijkplayer](https://github.com/bilibili/ijkplayer)
+
+    Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 * [ExoPlayer](https://github.com/google/ExoPlayer)
 
     An extensible media player for Android.

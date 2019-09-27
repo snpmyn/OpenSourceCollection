@@ -22,3 +22,6 @@
 * [flutter_app](https://github.com/shichunlei/flutter_app)
 
     基本控件使用。
+* [plaid](https://github.com/android/plaid)
+
+    An Android app which provides design news & inspiration as well as being an example of implementing material design.

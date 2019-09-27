@@ -13,4 +13,8 @@ Android slanted TextView.
 ### 滑动
 [AutoScrollTextView](https://github.com/lopspower/AutoScrollTextView)
 
-Create circular ImageView in Android in the simplest way possible
+Create circular ImageView in Android in the simplest way possible.
+### 选
+[CheckableTextView](https://github.com/JDevZone/CheckableTextView)
+
+A simple and flexible Checked TextView or Checkable TextView.
