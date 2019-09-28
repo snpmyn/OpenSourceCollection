@@ -18,8 +18,7 @@
 ##### [Design(设计)](https://github.com/snpmyn/OpenSourceCollection/blob/master/DESIGN.md)
 ##### [Blog(博客)](https://github.com/snpmyn/OpenSourceCollection/blob/master/BLOG.md)
 ##### [System(系统)](https://github.com/snpmyn/OpenSourceCollection/blob/master/SYSTEM.md)
-##### [Outsourcing(开源)](https://github.com/snpmyn/OpenSourceCollection/blob/master/OUTSOURCING.md)
-
+##### [Outsourcing(外包)](https://github.com/snpmyn/OpenSourceCollection/blob/master/OUTSOURCING.md)
 
 ### License
 ```
