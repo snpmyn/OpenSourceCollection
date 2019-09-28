@@ -21,3 +21,6 @@
 * [RxAnimation](https://github.com/lopspower/RxAnimation)
 
     Simple way to animate your views on Android with Rx 🚀
+* [FrameAnimation](https://github.com/yuyashuai/FrameAnimation)
+
+    高性能播帧动画，避AnimationDrawable带来OOM问题。
