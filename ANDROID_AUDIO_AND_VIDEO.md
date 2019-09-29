@@ -66,6 +66,9 @@ Yet another android custom progress view for your music player.
 
 An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 ### 其它
-[PhotoMovie](https://github.com/yellowcath/PhotoMovie)
+* [PhotoMovie](https://github.com/yellowcath/PhotoMovie)
 
-高仿抖音照片电影功能。
+    高仿抖音照片电影功能。
+* [VideoProcessor](https://github.com/yellowcath/VideoProcessor)
+
+    Process video(cut & scale & increase & decrease & reverse) with MediaCodec.
