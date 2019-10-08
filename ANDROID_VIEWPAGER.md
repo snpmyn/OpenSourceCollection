@@ -9,6 +9,9 @@
 * [ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper)
 
     ViewPager工具类，快速实现导航栏轮播图、引导页、ViewPager + Fragment。内置多种指示器，告别ViewPager繁琐操作，专注逻辑。
+* [GridPager](https://github.com/mtjsoft/GridPager)
+
+    类似美团APP多分类分页，链式调用，极简接入。
 ### 指示器
 * [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
