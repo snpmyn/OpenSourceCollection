@@ -66,6 +66,14 @@ A extends lib for android-percent-support（Google百分比布局库扩展）
 [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
 
 [不再维护]Android流式布局，支持单选、多选等，适合产品标签等。
+### 弧形
+[Crescento](https://github.com/developer-shivam/Crescento)
+
+Add curve at bottom of image views and relative layouts.
+### 缩放
+[ScalingLayout](https://github.com/iammert/ScalingLayout)
+
+With Scaling Layout scale your layout on user interaction.
 ### 布局管理器
 * [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 * [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
