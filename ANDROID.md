@@ -72,6 +72,7 @@
 ### [Format(格式化)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_FORMAT.md)
 ### [App Bundle(应用束)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_APP_BUNDLE.md)
 ### [Update(更新)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_UPDATE.md)
+### [FaceDetection(人脸检测)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_FACE_DETECTION.md)
 ### [Fingerprint Recognition(指纹识别)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_FINGERPRINT_RECOGNITION.md)
 ### [Front Back(前后台)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_FRONT_BACK.md)
 ### [Test(测试)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_TEST.md)
