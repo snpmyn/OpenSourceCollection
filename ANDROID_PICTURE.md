@@ -40,6 +40,10 @@
     Create circular ImageView in Android in the simplest way possible.
 ### 配色
 [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)
+### 阴影
+[ColoredShadowImageView](https://github.com/armcha/ColoredShadowImageView)
+
+ColoredShadowImageView allows you to create a beautiful shadow around the image based on corresponding area colors.
 ### 选择
 * [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 * [TedBottomPicker](https://github.com/iammert/TedBottomPicker)
