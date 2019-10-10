@@ -7,3 +7,7 @@
 [RangeView](https://github.com/iammert/RangeView)
 
 Android range view for cropping (video, audio, etc.)
+### 其它
+[CoffeeDrawable](https://github.com/wuyr/CoffeeDrawable)
+
+纯Paint搅拌咖啡效果，可作Loading动画。

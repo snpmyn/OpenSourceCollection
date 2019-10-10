@@ -7,3 +7,6 @@
 * [Slidr](https://github.com/r0adkll/Slidr)
 
     Easily add slide to dismiss functionality to an Activity.
+* [AndroidSlideBack](https://github.com/qinci/AndroidSlideBack)
+
+    Android一键侧返（类似小米MIX和新版即刻滑返）
