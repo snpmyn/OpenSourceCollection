@@ -29,3 +29,6 @@
 * [CircularProgressBar](https://github.com/lopspower/CircularProgressBar)
 
     Create circular ProgressBar in Android ⭕.
+* [WebProgress](https://github.com/youlookwhat/WebProgress)
+
+    Android WebView进度条，加载进度平滑过渡。
