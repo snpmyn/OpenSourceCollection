@@ -1,3 +1,4 @@
+### 动画
 * [SignUpAnimation](https://github.com/qike2015/SignUpAnimation)
 * [ant-motion](https://github.com/ant-design/ant-motion)
 * [TextPathView](https://github.com/totond/TextPathView)
@@ -24,3 +25,7 @@
 * [FrameAnimation](https://github.com/yuyashuai/FrameAnimation)
 
     高性能播帧动画，避AnimationDrawable带来OOM问题。
+### 插值器
+[EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator)
+
+Thirty-one different easing animation interpolators for Android.

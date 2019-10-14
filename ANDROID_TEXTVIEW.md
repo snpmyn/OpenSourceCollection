@@ -18,3 +18,7 @@ Create circular ImageView in Android in the simplest way possible.
 [CheckableTextView](https://github.com/JDevZone/CheckableTextView)
 
 A simple and flexible Checked TextView or Checkable TextView.
+### 气泡
+[BubbleView](https://github.com/cpiz/BubbleView)
+
+A control/container with an arrow for Android, which can be fully customized by code or XML layout file.
