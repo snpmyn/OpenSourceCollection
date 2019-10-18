@@ -22,3 +22,7 @@ A simple and flexible Checked TextView or Checkable TextView.
 [BubbleView](https://github.com/cpiz/BubbleView)
 
 A control/container with an arrow for Android, which can be fully customized by code or XML layout file.
+### 高亮
+[SocialTextView](https://github.com/hasankucuk/SocialTextView)
+
+A simple custom Android TextView that highlights content such as Mention, Hashtag, Phone, Email and Url.
