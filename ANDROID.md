@@ -13,7 +13,7 @@
 ### [Git(Git)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_GIT.md)
 ### [OCR(光学识别)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_OCR.md)
 ### [UI(UI)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_UI.md)
-### [TYPEFACE(字体)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_TYPEFACE.md)
+### [Font(字体)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_FONT.md)
 ### [Calendar(日历)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_CALENDAR.md)
 ### [Camera(相机)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_CAMERA.md)
 ### [Audio And Video(音视频)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_AUDIO_AND_VIDEO.md)
