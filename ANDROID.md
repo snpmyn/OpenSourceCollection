@@ -82,7 +82,7 @@
 ### [Channel(频道)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_CHANNEL.md)
 ### [Timeline(时间轴)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_TIMELINE.md)
 ### [Marquee(跑马灯)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_MARQUEE.md)
-### [Marquee(投屏)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_SCREENING.md)
+### [Screening(投屏)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_SCREENING.md)
 ### [Communication(通信)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_COMMUNICATION.md)
 ### [IM(即时通讯)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_IM.md)
 ### [Phone(电话)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PHONE.md)
