@@ -12,6 +12,9 @@
 * [GridPager](https://github.com/mtjsoft/GridPager)
 
     类似美团APP多分类分页，链式调用，极简接入。
+* [ViewPagerCardTransformer](https://github.com/aohanyao/ViewPagerCardTransformer)
+
+    🖥 各方向层叠卡片。
 ### 指示器
 * [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
