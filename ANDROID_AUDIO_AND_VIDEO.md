@@ -10,6 +10,9 @@
 * [ijkplayer](https://github.com/bilibili/ijkplayer)
 
     Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+* [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2)
+
+    Out of the box android video player（support lazy load, ListView/RecyclerView and hight performance）
 * [ExoPlayer](https://github.com/google/ExoPlayer)
 
     An extensible media player for Android.
