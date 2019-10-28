@@ -1,6 +1,9 @@
 * [EasyNavigation](https://github.com/forvv231/EasyNavigation)
 
     Android底部导航栏████几行代码实现Tab导航（随意定制加号，带红点消息提示）
+* [Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
+
+    Space Navigation is a library allowing easily integrate fully customizable Google Spaces like navigation to your app.
 * [TabContainerView](https://github.com/chenpengfei88/TabContainerView)
 * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
 

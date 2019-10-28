@@ -26,3 +26,7 @@ A control/container with an arrow for Android, which can be fully customized by 
 [SocialTextView](https://github.com/hasankucuk/SocialTextView)
 
 A simple custom Android TextView that highlights content such as Mention, Hashtag, Phone, Email and Url.
+### 链接
+[AutoLinkTextViewV2](https://github.com/armcha/AutoLinkTextViewV2)
+
+AutoLinkTextView is a TextView that supports automatic detection of Hashtags (#), Mentions (@) , URLs (http://), Phone Nubers and emails.
