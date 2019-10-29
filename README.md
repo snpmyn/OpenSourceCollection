@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### 介绍
-开源合集
+开源合集。
 
 ### 类目
 ##### [Organization(组织)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ORGANIZATION.md)
