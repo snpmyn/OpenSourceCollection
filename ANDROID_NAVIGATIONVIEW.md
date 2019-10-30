@@ -14,6 +14,9 @@
 * [ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)
 
     Yet another material bottom bar library for Android.
+* [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
+
+    A lightweight Android material bottom navigation bar library.
 * [QQMenu](https://github.com/ren93/QQMenu)
 
     仿最新版QQ底部动态按钮。
