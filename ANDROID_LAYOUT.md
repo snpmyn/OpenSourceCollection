@@ -38,6 +38,9 @@ Repository of examples that showcase the various features of ConstraintLayout.
 * [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
     Android library to observe scroll events on scrollable views. 
+* [SlidingUpPanelLayout](https://github.com/woxingxiao/SlidingUpPanelLayout)
+
+    A vertical-handled and multi-panel support SlidingPanelLayout. 
 ### 拖拽
 * [DragCloseHelper](https://github.com/bauer-bao/DragCloseHelper)
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)
