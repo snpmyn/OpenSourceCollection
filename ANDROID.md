@@ -89,6 +89,7 @@
 ### [IM(即时通讯)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_IM.md)
 ### [Phone(电话)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PHONE.md)
 ### [Mobile Phone(手机)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_MOBILE_PHONE.md)
+### [Debug(调试)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_DEBUG.md)
 ### [Other(其它)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_OTHER.md)             
 
 
