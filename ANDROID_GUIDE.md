@@ -4,6 +4,9 @@
 * [TapTargetView](https://github.com/KeepSafe/TapTargetView)
 * [ShowcaseView](https://github.com/erkutaras/ShowcaseView)
 * [GuideView-master](https://github.com/qiushi123/GuideView-master)
+* [Curtain](https://github.com/soulqw/Curtain)
+
+    一Android高亮View蒙层库。
 * [android-adDialog](https://github.com/yipianfengye/android-adDialog)
 
     简单、强大广告活动弹窗控件。
