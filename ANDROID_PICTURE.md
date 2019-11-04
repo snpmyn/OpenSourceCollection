@@ -27,6 +27,9 @@
 * [uCrop](https://github.com/Yalantis/uCrop)
 
     Image Cropping Library for Android.
+* [Croppy](https://github.com/lyrebirdstudio/Croppy)
+
+    Image Cropping Library for Android.
 * [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
 
     Image Cropping Library for Android, optimized for Camera / Gallery.
