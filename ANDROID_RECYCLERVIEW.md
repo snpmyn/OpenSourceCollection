@@ -1,4 +1,7 @@
 ### 控件
+* [recyclical](https://github.com/afollestad/recyclical)
+
+    🚀 An easy-to-use, extensible Kotlin DSL for setting up and manipulating RecyclerViews. 
 * [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)
 * [EmptyRecyclerView](https://github.com/zhouxu88/EmptyRecyclerView)
 * [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
