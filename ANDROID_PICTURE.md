@@ -74,12 +74,22 @@ ColoredShadowImageView allows you to create a beautiful shadow around the image 
 * [DragToDismissImageViewer](https://github.com/iammert/DragToDismissImageViewer)
 
     Drag to dismiss image view in imageviewer activity.
+* [Flick](https://github.com/saket/Flick)
+
+    Flick dismiss all the things!
 ### 触摸
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
 
 Adds touch functionality to Android ImageView.
 ### 拖拽
-[DragPhotoView](https://github.com/githubwing/DragPhotoView)
+[DragPhotoView](https://github.com/githubwing/DragPhotoView)    
+### 动画
+* [LoadingImagesAnimation](https://github.com/Cutta/LoadingImagesAnimation)
+
+    Android loading animation with images changing.
+* [ContinuousScrollableImageView](https://github.com/Cutta/ContinuousScrollableImageView)
+
+    Library for animating images with continuous scrolling effects.
 ### 九宫格
 [LQRNineGridImageView](https://github.com/GitLqr/LQRNineGridImageView)
 
