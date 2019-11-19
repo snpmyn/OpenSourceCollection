@@ -86,6 +86,7 @@
 ### [Timeline(时间轴)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_TIMELINE.md)
 ### [Marquee(跑马灯)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_MARQUEE.md)
 ### [Screening(投屏)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_SCREENING.md)
+### [LongConnection(长连接)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_LONG_CONNECTION.md)
 ### [Communication(通信)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_COMMUNICATION.md)
 ### [IM(即时通讯)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_IM.md)
 ### [Phone(电话)](https://github.com/snpmyn/OpenSourceCollection/blob/master/ANDROID_PHONE.md)
