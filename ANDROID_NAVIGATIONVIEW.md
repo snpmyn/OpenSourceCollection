@@ -17,6 +17,9 @@
 * [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
 
     A lightweight Android material bottom navigation bar library.
+* [Submarine](https://github.com/skydoves/Submarine)
+
+    🚤 Floating navigation view for listing items dynamically on Android.
 * [QQMenu](https://github.com/ren93/QQMenu)
 
     仿最新版QQ底部动态按钮。
