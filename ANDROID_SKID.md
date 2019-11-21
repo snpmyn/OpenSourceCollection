@@ -4,6 +4,9 @@
 * [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)
 * [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
+* [LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)
+
+    Android LiquidSwipe Library.
 * [Slidr](https://github.com/r0adkll/Slidr)
 
     Easily add slide to dismiss functionality to an Activity.

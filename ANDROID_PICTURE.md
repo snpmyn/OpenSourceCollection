@@ -36,6 +36,9 @@
 * [cropper](https://github.com/edmodo/cropper)
 
     Android widget for cropping and rotating an image.
+* [scissors](https://github.com/lyft/scissors)
+
+    ✂ Android image cropping library. 
 ### 圆形
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 * [CircularImageView](https://github.com/lopspower/CircularImageView)
