@@ -41,6 +41,9 @@ Repository of examples that showcase the various features of ConstraintLayout.
 * [SlidingUpPanelLayout](https://github.com/woxingxiao/SlidingUpPanelLayout)
 
     A vertical-handled and multi-panel support SlidingPanelLayout. 
+* [NestedTouchScrollingLayout](https://github.com/JarvisGG/NestedTouchScrollingLayout)
+
+    🎱 处理子 View，父 View 嵌套滚动。成本较 support v4 NestedScrolling 低，放心食用～
 ### 拖拽
 * [DragCloseHelper](https://github.com/bauer-bao/DragCloseHelper)
 * [RandomDragLayout](https://github.com/wuyr/RandomDragLayout)

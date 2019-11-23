@@ -80,6 +80,9 @@ ColoredShadowImageView allows you to create a beautiful shadow around the image 
 * [Flick](https://github.com/saket/Flick)
 
     Flick dismiss all the things!
+* [StfalconImageViewer](https://github.com/stfalcon-studio/StfalconImageViewer)
+
+    A simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures.
 ### 触摸
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
 
